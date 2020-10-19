@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d003a9913504044d39cfac6ed67f99b1, type: 3}
+  m_Name: WaveBossFett
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 2695994669972591427, guid: bcee381108bf24280a92acd6f5372b59,
+    type: 3}
+  pathPrefab: {fileID: 616648944504415647, guid: b790f6a45eec745d1ada84e47e9e0568,
+    type: 3}
+  timeBetweenSpawns: 0.65
+  randomSpawnFactor: 0.3
+  numberOfEnemies: 1
+  enemySpeed: 4

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4352687140176543706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4352687140176543708}
+  - component: {fileID: 585448844}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4352687140176543708
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4352687140176543706}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &585448844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4352687140176543706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d422fea40bbe8438ebe37368149e357a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - audioClip: {fileID: 8300000, guid: 31f4a2315b5794fe3a3177060497ab09, type: 3}
+    audioName: LoadingSFX
+    audioVolume: 0.3
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: db137875aebb34462934eee9d6f9e47d, type: 3}
+    audioName: MysticTown
+    audioVolume: 0.4
+    audioPitch: 1
+    loop: 1
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 83b6e27851422413fa8d180e94d12539, type: 3}
+    audioName: HorseSpawn1
+    audioVolume: 0.25
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 2ce398bac880241ea9088719172fc730, type: 3}
+    audioName: HorseSpawn2
+    audioVolume: 0.25
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: e9b4e1247a77d489f97efad5d0b66c20, type: 3}
+    audioName: HorseSpawn3
+    audioVolume: 0.25
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: b79d449e526bb4a6f8a1695acfc634c5, type: 3}
+    audioName: HorseDeath
+    audioVolume: 0.5
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: e29a4f71b7d0e49a296c5193e3c95ff4, type: 3}
+    audioName: LevelCompleted
+    audioVolume: 0.5
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 23aabf977dc234a77962a8b6f7cc404f, type: 3}
+    audioName: LevelLost
+    audioVolume: 0.5
+    audioPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
