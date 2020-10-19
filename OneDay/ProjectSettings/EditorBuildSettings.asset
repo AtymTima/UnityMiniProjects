@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1 Scenes/4 Kitchen.unity
     guid: 1f8004bfc19da443089a3d5dc4a6917f
+  - enabled: 1
+    path: Assets/1 Scenes/5 HungHom.unity
+    guid: 6e1968423ee96415398357907f9bc56b
   m_configObjects: {}
