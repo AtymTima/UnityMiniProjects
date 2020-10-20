@@ -26,4 +26,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1 Scenes/5 HungHom.unity
     guid: 6e1968423ee96415398357907f9bc56b
+  - enabled: 1
+    path: Assets/1 Scenes/6 Polyu.unity
+    guid: f09a6b7c46ed444fe84ca9d01b9f91c3
+  - enabled: 1
+    path: Assets/1 Scenes/7 LibCafe.unity
+    guid: e9958b9ee86484744a331935831775ec
+  - enabled: 1
+    path: Assets/1 Scenes/8 Library.unity
+    guid: 7d97d01233c834d8ea22d95199756c34
+  - enabled: 1
+    path: Assets/1 Scenes/9 Polyu Back.unity
+    guid: a7084868b4ac844fbbaba38cd92e2f2f
+  - enabled: 1
+    path: Assets/1 Scenes/10 Night HungHom.unity
+    guid: 2412c860f8dc94f0c91b48cc77d4ccd6
+  - enabled: 1
+    path: Assets/1 Scenes/11 Gym.unity
+    guid: 8ed4f2ea7493e45c195412777d578254
   m_configObjects: {}
