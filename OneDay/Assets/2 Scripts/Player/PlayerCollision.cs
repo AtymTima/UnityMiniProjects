@@ -3,7 +3,7 @@
 public class PlayerCollision : MonoBehaviour
 {
     [SerializeField] private SoundPlayer soundPlayer;
-    [SerializeField] private OreoDisplayer oreoDisplayer;
+    //[SerializeField] private OreoDisplayer oreoDisplayer;
     [SerializeField] private string oreoTag = "Oreo";
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -12,7 +12,7 @@ public class PlayerCollision : MonoBehaviour
         {
             case true:
                 collision.GetComponent<Animator>().SetTrigger("isHit");
-                oreoDisplayer.UpdateScore();
+                //oreoDisplayer.UpdateScore();
                 soundPlayer.EatSound();
                 break;
         }

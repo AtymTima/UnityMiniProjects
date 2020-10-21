@@ -242,8 +242,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u041D\u0430\u0436\u043C\u0438 \"\u043F\u0440\u043E\u0431\u0435\u043B\"
-    \u0447\u0442\u043E\u0431\u044B \u043D\u0430\u0447\u0430\u0442\u044C"
+  m_text: Press "space" to continue
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 375bbdae713c548fd9d90bf32d1d171e, type: 2}
   m_sharedMaterial: {fileID: -7218491008385749720, guid: 375bbdae713c548fd9d90bf32d1d171e,
@@ -313,7 +312,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 138766859}
-    characterCount: 27
+    characterCount: 25
     spriteCount: 0
     spaceCount: 3
     wordCount: 4
@@ -759,7 +758,7 @@ GameObject:
   - component: {fileID: 1497238250}
   - component: {fileID: 1497238249}
   m_Layer: 5
-  m_Name: Madis Dr
+  m_Name: Atymtima Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -802,7 +801,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ed37eb75a79404fac9b16bd7a9bcace0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 14ed9d7b33ef14aea9936cfa355a10a9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -870,7 +869,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8769598, g: 0.8773585, b: 0.7076807, a: 1}
+  m_Color: {r: 0.96470594, g: 0.8941177, b: 0.79215693, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -943,7 +942,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8769598, g: 0.8773585, b: 0.7076807, a: 1}
+  m_Color: {r: 0.96470594, g: 0.8941177, b: 0.79215693, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/1 Scenes/0 Menu.unity
+    guid: e7b02c2bc3fe04339b7c28b0ab1f4a9e
+  - enabled: 1
     path: Assets/1 Scenes/0 Room.unity
     guid: 52472554cd74f42c28b36de00b21a815
   - enabled: 1
@@ -44,4 +47,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1 Scenes/11 Gym.unity
     guid: 8ed4f2ea7493e45c195412777d578254
+  - enabled: 1
+    path: Assets/1 Scenes/12 Arena.unity
+    guid: aea1bfb1aee63468da846d0af9ae3e1c
+  - enabled: 1
+    path: Assets/1 Scenes/13 Night Rain.unity
+    guid: 0edfaee3f28d24f3189cabe94a95d730
+  - enabled: 1
+    path: Assets/1 Scenes/14 Laundry.unity
+    guid: 807495753d0344ee6b625e66872400d2
+  - enabled: 1
+    path: Assets/1 Scenes/15 Night Room.unity
+    guid: 15c6e850dd57f4c6d85309e5b5c38dac
   m_configObjects: {}

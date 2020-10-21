@@ -39,16 +39,6 @@ public class PlayerMove : MonoBehaviour
 
     private bool isBlocked;
 
-    private void Awake()
-    {
-        DialogueManager.OnDialogueBox += BlockInput;
-    }
-
-    private void OnDestroy()
-    {
-        DialogueManager.OnDialogueBox -= BlockInput;
-    }
-
     private void Update()
     {
         switch (isBlocked)
@@ -56,7 +46,7 @@ public class PlayerMove : MonoBehaviour
             case true:
                 if (Input.GetKeyDown(skipDialogueKey))
                 {
-                    DialogueManager.dialogueManagerInstance.DisplayNextSentence();
+                    //DialogueManager.dialogueManagerInstance.DisplayNextSentence();
                 }
                 return;
         }
