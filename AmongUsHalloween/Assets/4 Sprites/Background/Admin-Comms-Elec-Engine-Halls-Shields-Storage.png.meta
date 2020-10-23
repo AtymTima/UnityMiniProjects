@@ -1,0 +1,4232 @@
+fileFormatVersion: 2
+guid: 327293b1dcbaa439b89f735b1279aa7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7151058092781370828
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_0
+  - first:
+      213: -7905626894414234296
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_1
+  - first:
+      213: -7084606874632539585
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_2
+  - first:
+      213: 3076564283053709276
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_3
+  - first:
+      213: 3889178724462799199
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_4
+  - first:
+      213: 3131274067375794727
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_5
+  - first:
+      213: 3117614838427752291
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_6
+  - first:
+      213: -5393196823247726431
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_7
+  - first:
+      213: 1997572434180806739
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_8
+  - first:
+      213: 4183792332082231035
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_9
+  - first:
+      213: -4633731313582454409
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_10
+  - first:
+      213: 8127206409911996688
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_11
+  - first:
+      213: 4296944468718111560
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_12
+  - first:
+      213: -7128915824325377076
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_13
+  - first:
+      213: -4162134283009886039
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_14
+  - first:
+      213: -8167012284416035328
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_15
+  - first:
+      213: -5421459406363154819
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_16
+  - first:
+      213: -6088394027015772149
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_17
+  - first:
+      213: 5873278404798584385
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_18
+  - first:
+      213: 2896504842385159667
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_19
+  - first:
+      213: 2453622668787663564
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_20
+  - first:
+      213: -6349808988412258396
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_21
+  - first:
+      213: 3400672472291292597
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_22
+  - first:
+      213: 5946909050354807816
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_23
+  - first:
+      213: 3014125491672179079
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_24
+  - first:
+      213: -8956723961197021459
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_25
+  - first:
+      213: -5729890619699213750
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_26
+  - first:
+      213: 2705513944119749250
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_27
+  - first:
+      213: -8815596167935699519
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_28
+  - first:
+      213: 2867496471451629
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_29
+  - first:
+      213: -5859351460295751987
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_30
+  - first:
+      213: -3889573375680654735
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_31
+  - first:
+      213: 105119018338228531
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_32
+  - first:
+      213: -8280380558392301658
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_33
+  - first:
+      213: 8846934785466859374
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_34
+  - first:
+      213: 2172684937366650649
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_35
+  - first:
+      213: -4948490006747814722
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_36
+  - first:
+      213: 8674480884064708939
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_37
+  - first:
+      213: 5063028013875431278
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_38
+  - first:
+      213: -5556983365499857512
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_39
+  - first:
+      213: 1516188104485225230
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_40
+  - first:
+      213: 4345407893380354068
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_41
+  - first:
+      213: -2239391992314181583
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_42
+  - first:
+      213: -2566829190421902327
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_43
+  - first:
+      213: 8635780875537909557
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_44
+  - first:
+      213: 7210325364368879464
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_45
+  - first:
+      213: -7358701346986385983
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_46
+  - first:
+      213: -6758635361650693358
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_47
+  - first:
+      213: 1009567200240720354
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_48
+  - first:
+      213: 4119072914044083989
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_49
+  - first:
+      213: -3345606378161409743
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_50
+  - first:
+      213: 6469312088421470952
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_51
+  - first:
+      213: -3498302667690692862
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_52
+  - first:
+      213: -398253747902712323
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_53
+  - first:
+      213: 1483258907889764176
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_54
+  - first:
+      213: -3727806983275326380
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_55
+  - first:
+      213: 1658239911018279914
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_56
+  - first:
+      213: -3869568659219307110
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_57
+  - first:
+      213: 4173676702338522515
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_58
+  - first:
+      213: -5050565130054878558
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_59
+  - first:
+      213: -6938421593675898648
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_60
+  - first:
+      213: -832042861592134580
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_61
+  - first:
+      213: 4321278862751512381
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_62
+  - first:
+      213: -2154185890662903846
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_63
+  - first:
+      213: 4014708545814439928
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_64
+  - first:
+      213: -201668362750883731
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_65
+  - first:
+      213: 7528952478710671525
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_66
+  - first:
+      213: -9009064141272562151
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_67
+  - first:
+      213: -8153121870729607599
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_68
+  - first:
+      213: -2542758618426979603
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_69
+  - first:
+      213: 2087391713670984414
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_70
+  - first:
+      213: -4683091770743924060
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_71
+  - first:
+      213: -7986593425862542549
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_72
+  - first:
+      213: 6552633932357745689
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_73
+  - first:
+      213: -582877272761778560
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_74
+  - first:
+      213: 3211151068209219075
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_75
+  - first:
+      213: -6674037343864639814
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_76
+  - first:
+      213: 8772265165617828124
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_77
+  - first:
+      213: 5991907429849127954
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_78
+  - first:
+      213: 62496735036412439
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_79
+  - first:
+      213: -4326699213704028308
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_80
+  - first:
+      213: -1332489462008715435
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_81
+  - first:
+      213: -2083587799538111811
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_82
+  - first:
+      213: -7248219864287762459
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_83
+  - first:
+      213: -8326700601292450339
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_84
+  - first:
+      213: 6751330153720869641
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_85
+  - first:
+      213: 4585239627461917159
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_86
+  - first:
+      213: -5314989921948416503
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_87
+  - first:
+      213: -1874924758613679934
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_88
+  - first:
+      213: 6529403538900060624
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_89
+  - first:
+      213: -190899031057442798
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_90
+  - first:
+      213: 3379240823880841320
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_91
+  - first:
+      213: 3104819774530328601
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_92
+  - first:
+      213: 7846467749259371809
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_93
+  - first:
+      213: 1188994845153535284
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_94
+  - first:
+      213: -7488984866840608061
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_95
+  - first:
+      213: 4161619235952002441
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_96
+  - first:
+      213: -9104314036585156579
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_97
+  - first:
+      213: 8526441657313010198
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_98
+  - first:
+      213: -1397864037044411412
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_99
+  - first:
+      213: 1849565855162511798
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_100
+  - first:
+      213: 4197662001399769026
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_101
+  - first:
+      213: 7560760530324515543
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_102
+  - first:
+      213: -3289629605958858384
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_103
+  - first:
+      213: 6009554468736193935
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_104
+  - first:
+      213: 3420902088087766755
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_105
+  - first:
+      213: -6516113336516299086
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_106
+  - first:
+      213: 5764483762724089338
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_107
+  - first:
+      213: 4328717698610506398
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_108
+  - first:
+      213: 3795846523794373757
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_109
+  - first:
+      213: 3237181685132217283
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_110
+  - first:
+      213: 541806399248020917
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_111
+  - first:
+      213: -3389160072638406876
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_112
+  - first:
+      213: 3472501247589522322
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_113
+  - first:
+      213: 8019551699471075630
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_114
+  - first:
+      213: -2406368032514236464
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_115
+  - first:
+      213: -3562946686714020565
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_116
+  - first:
+      213: 5077260735894240311
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_117
+  - first:
+      213: -5148259741328592653
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_118
+  - first:
+      213: -4009778267104399929
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_119
+  - first:
+      213: 2857211861959179401
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_120
+  - first:
+      213: -2504763087368287446
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_121
+  - first:
+      213: -2071582266458200354
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_122
+  - first:
+      213: -1611293176695673755
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_123
+  - first:
+      213: 2128158106685157125
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_124
+  - first:
+      213: -1491307094889787187
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_125
+  - first:
+      213: -2284602169814628596
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_126
+  - first:
+      213: -2669066597750431800
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_127
+  - first:
+      213: 1688923449122498832
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_128
+  - first:
+      213: 298014176849735963
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_129
+  - first:
+      213: 4566715239091851583
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_130
+  - first:
+      213: -7287889691474006835
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_131
+  - first:
+      213: -732822931590812414
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_132
+  - first:
+      213: 3420567443308173349
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_133
+  - first:
+      213: -8834573214035367441
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_134
+  - first:
+      213: 889323719464637967
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_135
+  - first:
+      213: 8757423520556903232
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_136
+  - first:
+      213: 597681752839415984
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_137
+  - first:
+      213: -5268056698531216615
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_138
+  - first:
+      213: -861560445570814639
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_139
+  - first:
+      213: -1400597698030268785
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_140
+  - first:
+      213: 6552126196451768138
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_141
+  - first:
+      213: 4472069686879133723
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_142
+  - first:
+      213: 4081456505195381319
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_143
+  - first:
+      213: -8824521112481858444
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_144
+  - first:
+      213: 1080016326017362727
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_145
+  - first:
+      213: -7515791452442768229
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_146
+  - first:
+      213: -7274461485415402440
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_147
+  - first:
+      213: 3549638386071376021
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_148
+  - first:
+      213: -3929653879630422610
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_149
+  - first:
+      213: -7288321112531819975
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_150
+  - first:
+      213: -1399641585674156643
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_151
+  - first:
+      213: -8161385612189795322
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_152
+  - first:
+      213: 4052047234824955068
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_153
+  - first:
+      213: -3657481288366683660
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_154
+  - first:
+      213: -8883060191720464939
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_155
+  - first:
+      213: -8982524539689726830
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_156
+  - first:
+      213: 3510391694113710372
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_157
+  - first:
+      213: 2276071335604510671
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_158
+  - first:
+      213: 6799789725701181320
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_159
+  - first:
+      213: -4409259507762782149
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_160
+  - first:
+      213: 2283852841490570454
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_161
+  - first:
+      213: 4185764513519579897
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_162
+  - first:
+      213: -4929426698752606883
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_163
+  - first:
+      213: -3536589743221195598
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_164
+  - first:
+      213: -3197293589968727067
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_165
+  - first:
+      213: 4824681976510184397
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_166
+  - first:
+      213: 6615655978922587863
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_167
+  - first:
+      213: 3290641028981274411
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_168
+  - first:
+      213: -8747083623986048160
+    second: Admin-Comms-Elec-Engine-Halls-Shields-Storage_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1151
+        width: 817
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7a6c8279ad3360800000000000000
+      internalID: 7151058092781370828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1082
+        width: 606
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d3aafa932994290800000000000000
+      internalID: -7905626894414234296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_2
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1801
+        width: 422
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32bc38559b6ead90800000000000000
+      internalID: -7084606874632539585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_3
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1064
+        width: 583
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd712144ae622ba20800000000000000
+      internalID: 3076564283053709276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_4
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1763
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59ac93b17329f530800000000000000
+      internalID: 3889178724462799199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_5
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1764
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa3509c25847b20800000000000000
+      internalID: 3131274067375794727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_6
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1653
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36719fe7d2ef34b20800000000000000
+      internalID: 3117614838427752291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_7
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1654
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8dd8a40148725b0800000000000000
+      internalID: -5393196823247726431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_8
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1543
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35895789b8dc8bb10800000000000000
+      internalID: 1997572434180806739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1460
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b3c795f0df0a30800000000000000
+      internalID: 4183792332082231035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1386
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779405dbbeda1bfb0800000000000000
+      internalID: -4633731313582454409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_11
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1433
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01115178b23a9c070800000000000000
+      internalID: 8127206409911996688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_12
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1400
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc5856a30d1ab30800000000000000
+      internalID: 4296944468718111560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_13
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1413
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3cc6114d0011d90800000000000000
+      internalID: -7128915824325377076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1298
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a878b9ebe02d36c0800000000000000
+      internalID: -4162134283009886039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_15
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1400
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00671271991f8ae80800000000000000
+      internalID: -8167012284416035328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_16
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1292
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76268fd46b13c4b0800000000000000
+      internalID: -5421459406363154819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1097
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086d1fd3eda18ba0800000000000000
+      internalID: -6088394027015772149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_18
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1182
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1461ef85793128150800000000000000
+      internalID: 5873278404798584385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_19
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1182
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f09ccec3723820800000000000000
+      internalID: 2896504842385159667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1156
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24fe141d40d0220800000000000000
+      internalID: 2453622668787663564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1066
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7da162e52f0e7a0800000000000000
+      internalID: -6349808988412258396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_22
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1066
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53f54989d913f20800000000000000
+      internalID: 3400672472291292597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_23
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1066
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80434f1f54aa78250800000000000000
+      internalID: 5946909050354807816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 372
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e1974a2354d920800000000000000
+      internalID: 3014125491672179079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1132
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de63f95130353b380800000000000000
+      internalID: -8956723961197021459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1150
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a4cf2f6d65b70b0800000000000000
+      internalID: -5729890619699213750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 676
+        width: 455
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aaf16099aeb8520800000000000000
+      internalID: 2705513944119749250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1132
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d5e60ef5b8a580800000000000000
+      internalID: -8815596167935699519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_29
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1049
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7539c09ff2a0000800000000000000
+      internalID: 2867496471451629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1116
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c7ea14e66faea0800000000000000
+      internalID: -5859351460295751987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_31
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1038
+        width: 239
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172dcb66f95750ac0800000000000000
+      internalID: -3889573375680654735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_32
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1066
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391033b035757100800000000000000
+      internalID: 105119018338228531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1057
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e9f3e0cd261d80800000000000000
+      internalID: -8280380558392301658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1054
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7cc67050a6ca70800000000000000
+      internalID: 8846934785466859374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_35
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1054
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb49c607de62e10800000000000000
+      internalID: 2172684937366650649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1064
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e93d9e8e635bb0800000000000000
+      internalID: -4948490006747814722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_37
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 683
+        width: 187
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e7999762f16870800000000000000
+      internalID: 8674480884064708939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_38
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 979
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6785ee472d734640800000000000000
+      internalID: 5063028013875431278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_39
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 980
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89550ac3211a1e2b0800000000000000
+      internalID: -5556983365499857512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_40
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 939
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c3844c059a0510800000000000000
+      internalID: 1516188104485225230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_41
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 786
+        width: 731
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4105d11c47dfd4c30800000000000000
+      internalID: 4345407893380354068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 922
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138424909d41ce0e0800000000000000
+      internalID: -2239391992314181583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 935
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c8cc1737ac06cd0800000000000000
+      internalID: -2566829190421902327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_44
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 868
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378c84b3f478d770800000000000000
+      internalID: 8635780875537909557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_45
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 868
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f223a87b8301460800000000000000
+      internalID: 7210325364368879464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_46
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 913
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd10bcec14a0e990800000000000000
+      internalID: -7358701346986385983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 922
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21baa6682f08432a0800000000000000
+      internalID: -6758635361650693358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_48
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 879
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9db3b0504b20e00800000000000000
+      internalID: 1009567200240720354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 894
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd785ddf2e92930800000000000000
+      internalID: 4119072914044083989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 907
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131786f89b40291d0800000000000000
+      internalID: -3345606378161409743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_51
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 883
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2908b811d97c950800000000000000
+      internalID: 6469312088421470952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_52
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 883
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fae7f2248837fc0800000000000000
+      internalID: -3498302667690692862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 894
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57ac9835e197af0800000000000000
+      internalID: -398253747902712323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 886
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05704ba3e18959410800000000000000
+      internalID: 1483258907889764176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 852
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45457aaac4b244cc0800000000000000
+      internalID: -3727806983275326380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_56
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 852
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3be90d960430710800000000000000
+      internalID: 1658239911018279914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_57
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 853
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95af396ec78c4ac0800000000000000
+      internalID: -3869568659219307110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_58
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 854
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d163209d0ebe930800000000000000
+      internalID: 4173676702338522515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_59
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 759
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaba14f5c9c8e9b0800000000000000
+      internalID: -5050565130054878558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_60
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 758
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06c076256c5bf90800000000000000
+      internalID: -6938421593675898648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_61
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 479
+        width: 571
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb6ecfc6df374f0800000000000000
+      internalID: -832042861592134580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_62
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 847
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3735b50b3448fb30800000000000000
+      internalID: 4321278862751512381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_63
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 816
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf01e6885bca12e0800000000000000
+      internalID: -2154185890662903846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_64
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 835
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7aefdc62c17b730800000000000000
+      internalID: 4014708545814439928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_65
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 835
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688ccb41b7833df0800000000000000
+      internalID: -201668362750883731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 791
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a858a3663c7860800000000000000
+      internalID: 7528952478710671525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_67
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 782
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164db445ef59f280800000000000000
+      internalID: -9009064141272562151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_68
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 785
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15681bc0bda4ade80800000000000000
+      internalID: -8153121870729607599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_69
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 767
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac817328e46bcd0800000000000000
+      internalID: -2542758618426979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 678
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f37044b7e7fc10800000000000000
+      internalID: 2087391713670984414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_71
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 666
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad04ab8d0520fb0800000000000000
+      internalID: -4683091770743924060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_72
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 666
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3efd089be92190800000000000000
+      internalID: -7986593425862542549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_73
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 766
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cba5918d1afea50800000000000000
+      internalID: 6552633932357745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_74
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 751
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eb269653439e7f0800000000000000
+      internalID: -582877272761778560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_75
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 686
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060ab412ec409c20800000000000000
+      internalID: 3211151068209219075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_76
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 737
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea145756e0163a0800000000000000
+      internalID: -6674037343864639814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_77
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 739
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c111f20d0b85db970800000000000000
+      internalID: 8772265165617828124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_78
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 721
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5e2b9f08872350800000000000000
+      internalID: 5991907429849127954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_79
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 703
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712977b03780ed000800000000000000
+      internalID: 62496735036412439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_80
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 703
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f953d2df974f3c0800000000000000
+      internalID: -4326699213704028308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_81
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 698
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e406e4eb028de0800000000000000
+      internalID: -1332489462008715435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_82
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 680
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba61368feb9513e0800000000000000
+      internalID: -2083587799538111811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_83
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 278
+        width: 423
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a237af66296b90800000000000000
+      internalID: -7248219864287762459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 350
+        width: 577
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59eec7bed917c80800000000000000
+      internalID: -8326700601292450339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_85
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 671
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037ae5310b81bd50800000000000000
+      internalID: 6751330153720869641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_86
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 653
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e979e4c52b02af30800000000000000
+      internalID: 4585239627461917159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_87
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 664
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906cb7573dc5d36b0800000000000000
+      internalID: -5314989921948416503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_88
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 664
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c02f36adddeaf5e0800000000000000
+      internalID: -1874924758613679934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_89
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 557
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90153ace91d9a50800000000000000
+      internalID: 6529403538900060624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_90
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 557
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218dad9b75ac95df0800000000000000
+      internalID: -190899031057442798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_91
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 557
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687ae510a975ee20800000000000000
+      internalID: 3379240823880841320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_92
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 643
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181d788229861b20800000000000000
+      internalID: 3104819774530328601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_93
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 625
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e92878d044ec60800000000000000
+      internalID: 7846467749259371809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_94
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 609
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a5291388208010800000000000000
+      internalID: 1188994845153535284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_95
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 589
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c280b321f7c11890800000000000000
+      internalID: -7488984866840608061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_96
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 571
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850a5955aa01c930800000000000000
+      internalID: 4161619235952002441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 459
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d103db5de9af6a180800000000000000
+      internalID: -9104314036585156579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 458
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6122c362381045670800000000000000
+      internalID: 8526441657313010198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 511
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3aca3801ac99ce0800000000000000
+      internalID: -1397864037044411412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 493
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b137a9885afaa910800000000000000
+      internalID: 1849565855162511798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_101
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 491
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7a690a957114a30800000000000000
+      internalID: 4197662001399769026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_102
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 491
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da69c9c4a73de860800000000000000
+      internalID: 7560760530324515543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_103
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 159
+        width: 426
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c6367d43e852d0800000000000000
+      internalID: -3289629605958858384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_104
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 483
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d16703f9366350800000000000000
+      internalID: 6009554468736193935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 465
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e60ddb035c797f20800000000000000
+      internalID: 3420902088087766755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_106
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 461
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b2ccb17d1295a0800000000000000
+      internalID: -6516113336516299086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_107
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 477
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2daec07f8fff40800000000000000
+      internalID: 5764483762724089338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 477
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a20a6ffc1b21c30800000000000000
+      internalID: 4328717698610506398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 449
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3aa85d4e8da430800000000000000
+      internalID: 3795846523794373757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 468
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc4bf5797ccec20800000000000000
+      internalID: 3237181685132217283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 455
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5363cac02e48700800000000000000
+      internalID: 541806399248020917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_112
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 420
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5377ded847f0d0800000000000000
+      internalID: -3389160072638406876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_113
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 420
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9ca09c7dc03030800000000000000
+      internalID: 3472501247589522322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_114
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 433
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298ad008cb2b4f60800000000000000
+      internalID: 8019551699471075630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_115
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 350
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df122f160dda9ed0800000000000000
+      internalID: -2406368032514236464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_116
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d71c0addedd8ec0800000000000000
+      internalID: -3562946686714020565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 449
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb3032dbd067640800000000000000
+      internalID: 5077260735894240311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03aaaba05bd88b0800000000000000
+      internalID: -5148259741328592653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 430
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd292929e76a58c0800000000000000
+      internalID: -4009778267104399929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_120
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 421
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cfb10ec0bd6a720800000000000000
+      internalID: 2857211861959179401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_121
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 403
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b07ea2e3b4d3dd0800000000000000
+      internalID: -2504763087368287446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_122
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 322
+        width: 210
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a2c487e24043e0800000000000000
+      internalID: -2071582266458200354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 414
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2b0e846983a9e0800000000000000
+      internalID: -1611293176695673755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_124
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 390
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f26d6c58cb88d10800000000000000
+      internalID: 2128158106685157125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_125
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 390
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc013163910dd4be0800000000000000
+      internalID: -1491307094889787187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_126
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 387
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cc1f4e667b40e0800000000000000
+      internalID: -2284602169814628596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_127
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 387
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9937121295fad0800000000000000
+      internalID: -2669066597750431800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_128
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 111
+        width: 347
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01926cdbde2407710800000000000000
+      internalID: 1688923449122498832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_129
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 364
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b82d9052c22400800000000000000
+      internalID: 298014176849735963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_130
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 356
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31de60805b306f30800000000000000
+      internalID: 4566715239091851583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_131
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 380
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce57140f63cda90800000000000000
+      internalID: -7287889691474006835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 241
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de4472d6d74d5f0800000000000000
+      internalID: -732822931590812414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 282
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52856ac77fb487f20800000000000000
+      internalID: 3420567443308173349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_134
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 280
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ad3b287a456580800000000000000
+      internalID: -8834573214035367441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d4050633875c00800000000000000
+      internalID: 889323719464637967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 280
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be17a0b4e988970800000000000000
+      internalID: 8757423520556903232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_137
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 280
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8e9b633646b4800800000000000000
+      internalID: 597681752839415984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_138
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 324
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130e63185a14e6b0800000000000000
+      internalID: -5268056698531216615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_139
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 7
+        width: 457
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6939e65f1b04f0800000000000000
+      internalID: -861560445570814639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_140
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 342
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e0da770d3109ce0800000000000000
+      internalID: -1400597698030268785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_141
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 324
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f90f9f04ddea50800000000000000
+      internalID: 6552126196451768138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_142
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 339
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102939afabff0e30800000000000000
+      internalID: 4472069686879133723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_143
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 12
+        width: 441
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c066211f34a830800000000000000
+      internalID: 4081456505195381319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_144
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 229
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c75917dc0098580800000000000000
+      internalID: -8824521112481858444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_145
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 276
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b23e7502dfcfe00800000000000000
+      internalID: 1080016326017362727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_146
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 297
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4b3f8e7b82b790800000000000000
+      internalID: -7515791452442768229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_147
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fd8d12dbeb0b90800000000000000
+      internalID: -7274461485415402440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_148
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 298
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59010ea2e49d24130800000000000000
+      internalID: 3549638386071376021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_149
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 291
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead946edd901779c0800000000000000
+      internalID: -3929653879630422610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_150
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 279
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932af86309eaada90800000000000000
+      internalID: -7288321112531819975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_151
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 279
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d950709b469739ce0800000000000000
+      internalID: -1399641585674156643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_152
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 229
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c717ec60fecbe80800000000000000
+      internalID: -8161385612189795322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_153
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 473
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb468dccd73cb3830800000000000000
+      internalID: 4052047234824955068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_154
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 235
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9044a75240e3dc0800000000000000
+      internalID: -3657481288366683660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_155
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 216
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9612f1d709b480800000000000000
+      internalID: -8883060191720464939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8099c589a75380800000000000000
+      internalID: -8982524539689726830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_157
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 161
+        width: 126
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421212e95aa67b030800000000000000
+      internalID: 3510391694113710372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_158
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 175
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd72212da369f10800000000000000
+      internalID: 2276071335604510671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_159
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f05cb8ab4bd5e50800000000000000
+      internalID: 6799789725701181320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_160
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 84
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302945c6d92fc2c0800000000000000
+      internalID: -4409259507762782149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_161
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcdf481f00e1bf10800000000000000
+      internalID: 2283852841490570454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_162
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 54
+        width: 557
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f235cdd5a2d61a30800000000000000
+      internalID: 4185764513519579897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3682e888279bb0800000000000000
+      internalID: -4929426698752606883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_164
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb20fbd528beec0800000000000000
+      internalID: -3536589743221195598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_165
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 42
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d74f7b6ee0a3d0800000000000000
+      internalID: -3197293589968727067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_166
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7e1402b6b4f240800000000000000
+      internalID: 4824681976510184397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_167
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 35
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6bed3cf088fcb50800000000000000
+      internalID: 6615655978922587863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_168
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 25
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2731cfc494baad20800000000000000
+      internalID: 3290641028981274411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Admin-Comms-Elec-Engine-Halls-Shields-Storage_169
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 47
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063dcabb9cd1c9680800000000000000
+      internalID: -8747083623986048160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
