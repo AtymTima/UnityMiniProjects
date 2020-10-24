@@ -1,0 +1,5581 @@
+fileFormatVersion: 2
+guid: 08ea0ae02ab0749778fbfaea7bd55c3b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 40
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Storage Electrical Hall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1003
+      width: 806
+      height: 719
+    spriteID: cef9e4bcc42234ec1a1a8d473ade5e73
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -1426}
+  - name: Reactor and Security Hall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 1668
+      width: 372
+      height: 644
+    spriteID: 5d184706eb5c34bcb825279211e071d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 999, y: -110}
+  - name: Storage Shields Hall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 3810
+      width: 475
+      height: 279
+    spriteID: 4f2d21d82105a41b3b3cffcdde04e3b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 613, y: 1667}
+  - name: Floor of Shields
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 1254
+      width: 423
+      height: 400
+    spriteID: a5baa238c85c94365929b4af8da13484
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1171, y: -474}
+  - name: Communication Floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 2430
+      width: 455
+      height: 313
+    spriteID: 2c1b641194f064173aaf5233d05f40be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1565, y: 1028}
+  - name: Admin Room
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3753
+      width: 583
+      height: 333
+    spriteID: 23465acbaee594835b230363b49f2dd8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -463, y: 2375}
+  - name: Bridge of Storage-Cafeteria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 3342
+      width: 185
+      height: 375
+    spriteID: 0f32975a48e8b42058cd34bbbdf59e87
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -104, y: 570}
+  - name: Hall Shields-Navigation-weapon
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1730
+      width: 609
+      height: 787
+    spriteID: 37b4f0117c6164299807b08fe7c7807c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -863, y: -239}
+  - name: Storage
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2525
+      width: 569
+      height: 809
+    spriteID: 4c1d51fc2192d410c88ea4e30477de0c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1476, y: 187}
+  - name: Hall Cafeteria Engine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3342
+      width: 731
+      height: 403
+    spriteID: 7acf34dfc36c64580ab8fdbcc7408bf8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1046, y: 1787}
+  - name: Shields Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 1662
+      width: 424
+      height: 394
+    spriteID: aa57eb6dd09c44859af556eb17d048d2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -51, y: 383}
+  - name: Boxes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 3227
+      width: 328
+      height: 328
+    spriteID: f545a63aa4dc24e738fbc187c01bf2c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 433, y: 405}
+  - name: Admin Room Panel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 3846
+      width: 560
+      height: 98
+    spriteID: e391127a23ff7413aa136579836340b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 63, y: 1756}
+  - name: Admin Map
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1055
+      width: 203
+      height: 111
+    spriteID: 32ab647ecf37243dea668356099919f1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 642, y: -1161}
+  - name: Communication Radio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 3228
+      width: 239
+      height: 96
+    spriteID: c8aad3407dacd492cbb80a31faf17c25
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 557, y: 1965}
+  - name: Communication Table
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 937
+      width: 209
+      height: 110
+    spriteID: 1cef7cd21270d495aa407343fc6d9110
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2139, y: -209}
+  - name: Electrical Cables
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 763
+      width: 215
+      height: 166
+    spriteID: c1d139af8bd3f407fa7b78c157511939
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 205, y: -1159}
+  - name: Shields Wall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1837
+      y: 2930
+      width: 202
+      height: 192
+    spriteID: 130ecb41f529e49978af1361c4bb016b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 440, y: 1454}
+  - name: Shields Camera Forward
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1988
+      width: 44
+      height: 57
+    spriteID: e1c0dd32ccc1a4d91bc8c1041a034c0d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 359, y: 305}
+  - name: Shields Stand 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 828
+      y: 3228
+      width: 157
+      height: 95
+    spriteID: b9054babc00ca4a1eb772e00782573a4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -390, y: 1670}
+  - name: Shields Stand 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1482
+      y: 3810
+      width: 45
+      height: 176
+    spriteID: 6216476ebe77c41dfad1145b0af00e71
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 333, y: 2335}
+  - name: Shields Stand 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1379
+      y: 2184
+      width: 163
+      height: 126
+    spriteID: aba173a54b595440fa9fdd0c28c046f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -53, y: 912}
+  - name: Shield Stand 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2003
+      y: 760
+      width: 124
+      height: 41
+    spriteID: c66507b5c63594cca9e1f327a4bab48e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 584, y: -654}
+  - name: Camera Side Right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2116
+      y: 2553
+      width: 22
+      height: 43
+    spriteID: 5f19f29f22c4a400f901ae89413f0133
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 278, y: 874}
+  - name: Camera Side Left Active
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2923
+      width: 38
+      height: 27
+    spriteID: 590d98901a47a494bb96b4d2b586a937
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: 1244}
+  - name: Camera Side Left Deactive
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2883
+      width: 35
+      height: 32
+    spriteID: 4088e448ce5da4192920ce9f561bdfd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: 1171}
+  - name: Lamp Light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2448
+      y: 763
+      width: 41
+      height: 100
+    spriteID: 41838406d58f94789825d4850a4361be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1109, y: -589}
+  - name: Lamp Darken
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 950
+      y: 1365
+      width: 37
+      height: 100
+    spriteID: 2195be60006014406924a0fc8672d6c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -342, y: 13}
+  - name: Green Monitors
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2811
+      width: 50
+      height: 28
+    spriteID: b5a29159bd59045f588f771b58667bc2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 479, y: 515}
+  - name: Map Content
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1820
+      width: 113
+      height: 57
+    spriteID: 7dda3fd4f9dc34c3aa7c2acf113fea53
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 428, y: -409}
+  - name: Hall Lightning Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2520
+      width: 44
+      height: 39
+    spriteID: b5883adceb04240ffa54b0135d4b49f7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 418, y: 235}
+  - name: Fuel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2621
+      width: 36
+      height: 45
+    spriteID: 880fe6577cf0149d08cc1b9079acff65
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 361, y: 334}
+  - name: Nucleus Sign
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2847
+      width: 45
+      height: 28
+    spriteID: 94e74659511e94790be94839556302a8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 480, y: 651}
+  - name: Luke Open
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2041
+      width: 48
+      height: 48
+    spriteID: b79766edf72884d059bf870bbcf7b806
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 361, y: -193}
+  - name: Luke Closed
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2481
+      width: 57
+      height: 31
+    spriteID: 6ab3e36b982aa46dfbf4f15cca904051
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 367, y: 285}
+  - name: Unknown Shelf
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2596
+      width: 48
+      height: 64
+    spriteID: 760db6d0e40904f1ca3f5449edd99242
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 475, y: 706}
+  - name: Green Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1482
+      y: 3994
+      width: 61
+      height: 72
+    spriteID: 773896966042842ce97931403b950fb3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 264, y: 2604}
+  - name: Computer Side Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 936
+      y: 3342
+      width: 53
+      height: 120
+    spriteID: 08cf99f9aff4c4331ace18cbae206496
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: 2078}
+  - name: Computer Side Right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2052
+      y: 3227
+      width: 60
+      height: 125
+    spriteID: 0999d87081db941d79286957cad4d741
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1696, y: 1962}
+  - name: Computer Monitor Back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2052
+      y: 3360
+      width: 87
+      height: 86
+    spriteID: 54d44064f16b34ebb9d21aa1395f39a0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1789, y: 2191}
+  - name: Electrical Door
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2567
+      width: 37
+      height: 46
+    spriteID: 210b018e5232945a18283d3243ed45e4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 301, y: 281}
+  - name: Cassir Canditioner
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 951
+      y: 1184
+      width: 35
+      height: 70
+    spriteID: a9ab9864c7f3642d1a0caa47757aeb5d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: -700}
+  - name: Walls Shields
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 2320
+      width: 452
+      height: 479
+    spriteID: 5e66cce1368344da88129fda1331ec89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1699, y: -351}
+  - name: Side Mat
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1646
+      width: 136
+      height: 75
+    spriteID: 5477d078cb85e46d8a37b453f8cb1345
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -90, y: -159}
+  - name: WiFi
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2107
+      y: 824
+      width: 31
+      height: 27
+    spriteID: 4d88bcdcf6e4a48ee9613b1fb785dc36
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 209, y: -1428}
+  - name: WiFi Side
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1530
+      y: 2472
+      width: 27
+      height: 43
+    spriteID: 2a6fd6b3888df4a8b9d89f28d876c6cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -368, y: 275}
+  - name: Butterfly Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2958
+      width: 34
+      height: 22
+    spriteID: c5b070e7bbc9443388b09cf619d0c89f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 413, y: 760}
+  - name: Walls Admin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 4
+      width: 574
+      height: 395
+    spriteID: 4cd02d324a6844219bfff0e401382621
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -529, y: -2751}
+  - name: Lines on Wall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2291
+      y: 1431
+      width: 58
+      height: 62
+    spriteID: 1025a38152ba248e488e2ba349430957
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1454, y: -457}
+  - name: Star Panel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 962
+      y: 1646
+      width: 28
+      height: 71
+    spriteID: 4c2f77c1e0bf2438baf0d5b1e7ab69cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 101, y: -165}
+  - name: Radio Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2256
+      y: 1649
+      width: 75
+      height: 59
+    spriteID: 4741ecc1d7d564eef8bdf4299ac360c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1890, y: 467}
+  - name: Electrical Roof Cables
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 3952
+      width: 425
+      height: 76
+    spriteID: 23a25ca690d49409e963c9dd02daf826
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 60, y: 1963}
+  - name: Wall with rope
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1575
+      width: 126
+      height: 66
+    spriteID: 2454faf2bfc0c49da94430ccc243a3ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1231, y: -156}
+  - name: Butterfly Side right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 2389
+      width: 21
+      height: 59
+    spriteID: d5fff136c8a134fa8a84f6e5e978ab6d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -422, y: 107}
+  - name: Chair Side Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2668
+      width: 45
+      height: 66
+    spriteID: b5710e5ec5e1d44f4ad6bebe6e025b13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 316, y: 1288}
+  - name: Chair Side Back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1512
+      y: 2668
+      width: 44
+      height: 61
+    spriteID: daf0ef208da114c05bb888f472bf84ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 444, y: 1290}
+  - name: Dont Know
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 951
+      y: 1262
+      width: 28
+      height: 86
+    spriteID: 59c0e60a38d984e3cbc9258e13a8152d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 84, y: -459}
+  - name: Electrical Floor Cables
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 4
+      width: 347
+      height: 299
+    spriteID: 0b546a9e7a18642589a39d35b155a8ab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -173, y: -2135}
+  - name: Computer Side Left_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2047
+      y: 3055
+      width: 79
+      height: 67
+    spriteID: 63224272d092d4a998d62332e0f6ff62
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 107, y: 848}
+  - name: Walls Communication
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 2064
+      width: 446
+      height: 358
+    spriteID: 7d0cff37c1edc465da08dc5167b26fda
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1116, y: -98}
+  - name: Red Button Closed
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2207
+      y: 1885
+      width: 51
+      height: 48
+    spriteID: d5812b255f5604452b58e7dd3d9a4252
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 173, y: -315}
+  - name: Camera with Picture
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 1988
+      width: 52
+      height: 45
+    spriteID: 9496e2fa4808e42a1a6c217adcfd9334
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 215, y: -291}
+  - name: Door Closed 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1997
+      y: 1915
+      width: 126
+      height: 99
+    spriteID: c369272fd7c8a4c80a8f922887e20e29
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1530, y: 650}
+  - name: Door Opening 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1996
+      y: 1508
+      width: 126
+      height: 93
+    spriteID: 60b1a49f6d3774217a396a8e1ae4fd6e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1529, y: 349}
+  - name: Door Opening 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2003
+      y: 659
+      width: 126
+      height: 93
+    spriteID: 2831de572b8004e5cba5f9e7e2712c9f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1536, y: -393}
+  - name: Door Opening 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2364
+      y: 937
+      width: 126
+      height: 100
+    spriteID: 7c0b115cb1f344fff99b1cc925d7ad7c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1745, y: -319}
+  - name: Door Open 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1174
+      width: 126
+      height: 93
+    spriteID: 1c6958b6875834fb1a0a6d1fd334e851
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1528, y: 17}
+  - name: Cafeteria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 987
+      height: 991
+    spriteID: 43868ca3acced4d73ac7257b18432e87
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2159, y: -1142}
+  - name: Turbine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 311
+      width: 311
+      height: 276
+    spriteID: fa3f11c40ce5b437b858d0febc7ef2be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1689, y: -256}
+  - name: Engine Stand 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 4036
+      width: 219
+      height: 45
+    spriteID: 074257fadf0f84afe87ccc0d47929950
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1361, y: 2998}
+  - name: Engine Stand 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2370
+      y: 763
+      width: 70
+      height: 155
+    spriteID: 210a2f67c26f642ac852a18b4f3a7e31
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1917, y: -97}
+  - name: Code Machine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2378
+      width: 46
+      height: 44
+    spriteID: d9e7784d8d2964a858c727aba7aacd6e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1819, y: 1271}
+  - name: Smoke 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2766
+      width: 39
+      height: 37
+    spriteID: faae8cdfa255247a28bdefe0e18c6e88
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2189, y: 1677}
+  - name: Smoke 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1520
+      y: 2742
+      width: 35
+      height: 57
+    spriteID: c99bb68fa37114dce8aa3f4a95ae03f8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1459, y: 1667}
+  - name: Smoke 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2019
+      y: 2388
+      width: 64
+      height: 32
+    spriteID: 202f89c66e6fe4b598edd3d13a7052fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1911, y: 1296}
+  - name: Smoke 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2097
+      width: 59
+      height: 39
+    spriteID: 3a3edb2a36c0d4f32b9bafe08ae53a03
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2097, y: 1067}
+  - name: Smoke 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2091
+      y: 2388
+      width: 48
+      height: 30
+    spriteID: 6d4e8eebe685842649d0fc5c43e7bdd1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2078, y: 1358}
+  - name: Upper Engine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 3312
+      width: 426
+      height: 490
+    spriteID: e4612b7d111bb4eaab7947733cdb70cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 989, y: 2780}
+  - name: Lower Engine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 2807
+      width: 430
+      height: 497
+    spriteID: e5876061804a54bbe81b8a3fc4044d08
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 991, y: 2795}
+  - name: Green Light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2028
+      y: 2675
+      width: 93
+      height: 51
+    spriteID: ae7fe9f26c6b64789991d46182fc19bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1265, y: 1362}
+  - name: Hologram
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2448
+      y: 871
+      width: 45
+      height: 57
+    spriteID: cc74e8981b15245f9ad5e3465848c8e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1671, y: -369}
+  - name: Medbay Portal
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1545
+      width: 153
+      height: 93
+    spriteID: 022cc3f470a08415589807671b5215e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 44, y: 423}
+  - name: MedBay Monitor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 595
+      width: 110
+      height: 126
+    spriteID: ff4e15be7685a49e2907e64ddbf8faba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1515, y: -643}
+  - name: MedBay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 504
+      width: 523
+      height: 520
+    spriteID: 90e6fbd1c6dda4f588789ea0c1e7768d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 537, y: 499}
+  - name: Weapons Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 824
+      width: 401
+      height: 422
+    spriteID: 0f1d534f98f6f4782acc93e3a86d56a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 786, y: 138}
+  - name: Weapons Light Lines
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2281
+      y: 1575
+      width: 62
+      height: 61
+    spriteID: 7c315336d3be4452894b7bcb01d43a32
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1750, y: 606}
+  - name: Weapons Darker Lines
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2291
+      y: 1503
+      width: 57
+      height: 61
+    spriteID: 6701c04d6740f43e28f2c003c75793e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1688, y: 534}
+  - name: Weapons Monitor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1437
+      y: 3175
+      width: 79
+      height: 102
+    spriteID: 009b77a4fa5e44fe9a8756d615aa4ece
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 906, y: 2320}
+  - name: Weapons Red Circle Active
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2116
+      y: 2649
+      width: 15
+      height: 16
+    spriteID: 5b821603ec8a746d59004640cb1699d0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1499, y: 1704}
+  - name: Weapons Red Circle Deactive
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2245
+      y: 2923
+      width: 13
+      height: 15
+    spriteID: 0e81bc13a84c240d7bc4052e48853e4c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1606, y: 1977}
+  - name: Weapons Floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 407
+      width: 430
+      height: 409
+    spriteID: 76bab469e358a4ef4b678fc6b999a3c5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 562, y: 397}
+  - name: Weapons Tube 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2019
+      y: 2064
+      width: 108
+      height: 316
+    spriteID: fd606709e197f45a3b6c68c2cf053c97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 814, y: 1632}
+  - name: Weapons Tube 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1400
+      y: 1470
+      width: 140
+      height: 185
+    spriteID: 9f253240019284f7d8033334250a9266
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 346, y: 1038}
+  - name: Weapons Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2052
+      y: 3454
+      width: 78
+      height: 79
+    spriteID: 65175f6e0f20843f2bb7f874aca3a491
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1082, y: 2925}
+  - name: Weapons Stand 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1998
+      y: 3952
+      width: 124
+      height: 111
+    spriteID: 1c00ddbe1d9c345f4a6fef8893ccef14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 989, y: 2802}
+  - name: Weapons Stand 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1792
+      y: 4036
+      width: 153
+      height: 46
+    spriteID: a4c46c81d71254482aa0c90c9b440186
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 783, y: 2748}
+  - name: Weapons Stand 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1433
+      y: 3312
+      width: 122
+      height: 197
+    spriteID: 3fcff70b2db5e4548ac69f300679d92c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 247, y: 2195}
+  - name: Walls Weapons
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 4
+      width: 558
+      height: 492
+    spriteID: 33615bbb1b7c54ca5bcc744012837abc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -445, y: -6}
+  - name: Weapons Hall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1964
+      y: 3563
+      width: 168
+      height: 199
+    spriteID: 74a85df0449f048e4b59c0e53c59bb40
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 645, y: 3038}
+  - name: Weapons Window
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 3563
+      width: 391
+      height: 275
+    spriteID: d8a790a5dacda47edbe064ff8ae21694
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 37, y: 3045}
+  - name: Reactor Floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 999
+      y: 1032
+      width: 393
+      height: 628
+    spriteID: a3d3160cc348c4cedbdc612397448390
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1014, y: 1027}
+  - name: Reactor Tube 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1901
+      y: 3227
+      width: 143
+      height: 297
+    spriteID: 736c3afad44bf4203afadba5a5eebc16
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -21, y: 2577}
+  - name: Reactor Tube 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 595
+      width: 229
+      height: 160
+    spriteID: 736761f3da93d4a65848697d67f49f6b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 76, y: -60}
+  - name: Reactor Tube 3 Deactive
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1400
+      y: 1032
+      width: 131
+      height: 211
+    spriteID: dc13d40d8eba94ad7b7597158302f611
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -675, y: 213}
+  - name: Reactor Tube 3 Active
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1400
+      y: 1251
+      width: 125
+      height: 211
+    spriteID: 078739baa4bf141b2b978456285ffab3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -813, y: 432}
+  - name: Reactor Lamp Cyan Down 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1433
+      y: 3698
+      width: 99
+      height: 84
+    spriteID: 660af4e7ec49547bdacfac18be4e11ec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -915, y: 2684}
+  - name: Reactor Lamp Cyan Down 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1437
+      y: 2807
+      width: 99
+      height: 84
+    spriteID: 6f5283a17129049c1b2b7455331c50d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -911, y: 1883}
+  - name: Reactor Lamp Cyan Down 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1437
+      y: 2899
+      width: 99
+      height: 84
+    spriteID: a6992a0d98f3540dd835798db618bdf6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -911, y: 2065}
+  - name: Reactor Lamp Cyan Down 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1437
+      y: 2991
+      width: 99
+      height: 84
+    spriteID: ea4b546a97d6040208ddf071514704de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -911, y: 2247}
+  - name: Reactor Lamp Empty Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1437
+      y: 3083
+      width: 97
+      height: 84
+    spriteID: 99f317e251d0e4a5aafa599c0a883428
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -911, y: 2427}
+  - name: Reactor Lamp Cyan Up 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1964
+      y: 3770
+      width: 136
+      height: 64
+    spriteID: b455b287ac4e6414c9ba1aa25d2e8cd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -491, y: 2698}
+  - name: Reactor Lamp Cyan Up 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1431
+      width: 136
+      height: 64
+    spriteID: 512cdcd38c2814da696320d462046f2f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -308, y: 426}
+  - name: Reactor Lamp Cyan Up 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1503
+      width: 136
+      height: 64
+    spriteID: 77501df05b3804ab4848af70cfe44724
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -308, y: 564}
+  - name: Reactor Floor Lamp Red Deactive Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1974
+      y: 824
+      width: 125
+      height: 244
+    spriteID: 0fecd9e932c45407f818fa7e89a43536
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -636, y: -68}
+  - name: Reactor Floor Lamp Red Active Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1996
+      y: 1254
+      width: 127
+      height: 246
+    spriteID: 304075341ac65435a8e01fa524dc4909
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -743, y: 364}
+  - name: Reactor Floor Lamp Red Dective Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1365
+      width: 124
+      height: 172
+    spriteID: 42d0896c543ba40548e2801e7dfd52ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2052, y: 401}
+  - name: Reactor Floor Lamp Red Active Down_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1433
+      y: 3517
+      width: 124
+      height: 173
+    spriteID: c786a8e6e639545ca9e10e65b9a56f3d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1565, y: 2553}
+  - name: Reactor Floor Lamp Blue Deactive Up
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1003
+      width: 127
+      height: 173
+    spriteID: 7126475526bf0492b80992b3ec864013
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1791, y: 289}
+  - name: Reactor Floor Lamp Blue Active Up
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 1184
+      width: 125
+      height: 173
+    spriteID: aec105f825ce44be2a2e011896babf97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1921, y: 470}
+  - name: Reactor Floor Lamp Blue DeActive Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2003
+      y: 407
+      width: 126
+      height: 244
+    spriteID: 7eed64d3a309a4c7fa39a61439a09e7a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -867, y: -307}
+  - name: Reactor Floor Lamp Blue Active Down
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1997
+      y: 1662
+      width: 128
+      height: 245
+    spriteID: 61731405d52484c15990f65c904f23f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1003, y: 951}
+  - name: Reactor Blue Sign
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 3221
+      width: 29
+      height: 33
+    spriteID: 2e53a9d52b7074c17834f6fd47767c62
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -791, y: 2182}
+  - name: Reactor Left Panel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2742
+      width: 53
+      height: 55
+    spriteID: 6e90fd1b800e54a0ab14867b1ec1024a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -799, y: 1708}
+  - name: Reactor Purple Door
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 3130
+      width: 134
+      height: 67
+    spriteID: 2493fafe05cdd4908b306d20f4feec85
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -130, y: 2095}
+  - name: Reactor Mini Tube Cyan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2272
+      width: 45
+      height: 46
+    spriteID: 3ff549b11a060428080c0225ba0c6770
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 128, y: 1235}
+  - name: Reactor Mini Light Cyan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 3262
+      width: 23
+      height: 39
+    spriteID: 3eb65f24d63a44bb1ae4310df4914eac
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -521, y: 2228}
+  - name: Reactor Mini Tube Deactive
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2430
+      width: 46
+      height: 43
+    spriteID: 1852273b007a2477da40540c51987a04
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: 1442}
+  - name: Reactor Mini Light Deactivate
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2118
+      y: 2430
+      width: 21
+      height: 36
+    spriteID: 46dbcf37cdea24e43afb73a1efbbc7a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 69, y: 1481}
+  - name: Walls Reactor Room
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 581
+      y: 2525
+      width: 398
+      height: 695
+    spriteID: 6c0370b59f20542e8882d772322894b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1877, y: 2520}
+  - name: Reactor Unknown Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2108
+      y: 3770
+      width: 25
+      height: 63
+    spriteID: 7e3806b3be83d42fda0f655440316d12
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 113, y: 2821}
+  - name: Reactor Container Red Charged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1379
+      y: 1668
+      width: 144
+      height: 164
+    spriteID: af9f368dae7544d4d835882993153057
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1480, y: 1127}
+  - name: Reactor Container Red Empty
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1379
+      y: 2012
+      width: 143
+      height: 164
+    spriteID: fdd7089bf60c144349c8572543cc11ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1625, y: 1470}
+  - name: Reactor Container White-Cyan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1379
+      y: 1840
+      width: 144
+      height: 164
+    spriteID: 16716130e73a94dc5986fbbed8e56689
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1479, y: 1466}
+  - name: Reactor Container Cyan Charged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1974
+      y: 1076
+      width: 146
+      height: 165
+    spriteID: 0ba3dcb3aa9db4f0e8935dd18480c44f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1030, y: 702}
+  - name: Reactor Lightning Shield
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2144
+      width: 38
+      height: 60
+    spriteID: f3107b743c5ea43dba199c6056b2d719
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 246, y: 1195}
+  - name: Reactor Three Tubes Energy Charged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2047
+      y: 2930
+      width: 84
+      height: 117
+    spriteID: 8843f76a63e98409c960da268cf15b62
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 109, y: 1914}
+  - name: Reactor Three Tubes Energy Cyan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2028
+      y: 2430
+      width: 82
+      height: 115
+    spriteID: 5019267c50e6e4b609ac3ba43cac37a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3, y: 1344}
+  - name: Reactor Mini Tube White
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2326
+      width: 47
+      height: 44
+    spriteID: bd4eb7a40ddf24a1fb03989eaa6cd0c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 87, y: 1217}
+  - name: Reactor Mini Light White
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2116
+      y: 2604
+      width: 22
+      height: 37
+    spriteID: e6fb22362f65c4bbab30d534be1a8b84
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2, y: 1447}
+  - name: Reactor Horizontal Empty
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2652
+      y: 4
+      width: 144
+      height: 16
+    spriteID: 2b86f2302026d440eb3b0c9a0eb5fcc4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 196, y: -910}
+  - name: Reactor Horizontal Blue 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1989
+      y: 3205
+      width: 142
+      height: 14
+    spriteID: 357da5f17c20f4bea909691635d896ac
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -467, y: 2308}
+  - name: Reactor Horizontal Blue 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1996
+      y: 1635
+      width: 142
+      height: 18
+    spriteID: ec85750f62fa94773ac7297727509cf3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -460, y: 759}
+  - name: Reactor Horizontal Blue 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2804
+      y: 4
+      width: 142
+      height: 16
+    spriteID: 7a83efeb3c49f4221873374cfe862b5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 348, y: -854}
+  - name: Reactor Horizontal Blue 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1901
+      y: 3532
+      width: 142
+      height: 19
+    spriteID: db836587151694c2cb3d8ffa84b81391
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -555, y: 2695}
+  - name: Reactor Horizontal Blue 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 750
+      y: 4075
+      width: 142
+      height: 17
+    spriteID: b06e75320e3f74615ab40855149b3cb4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1706, y: 3257}
+  - name: Reactor Horizontal Blue 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2954
+      y: 4
+      width: 142
+      height: 16
+    spriteID: 8361828bbfe9b4cff83033e0d19a8f4d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 498, y: -796}
+  - name: Reactor Horizontal Blue 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1997
+      y: 2022
+      width: 142
+      height: 18
+    spriteID: 05f0d22cc8d704027b15912d5dd7bd12
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -459, y: 1242}
+  - name: Reactor Horizontal Blue 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 3725
+      width: 142
+      height: 18
+    spriteID: 566e756246d5d4d36bf393284863b900
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1713, y: 2965}
+  - name: Reactor Horizontal Blue 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2502
+      y: 4
+      width: 142
+      height: 17
+    spriteID: 6de0e3c2af87342d99e376406143f1d9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 46, y: -737}
+  - name: Reactor Horizontal Blue 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1996
+      y: 1609
+      width: 143
+      height: 18
+    spriteID: 566d95b6717444d509b25a08ada93e5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -460, y: 888}
+  - name: Reactor Horizontal Blue 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 595
+      y: 4075
+      width: 147
+      height: 17
+    spriteID: 49559b06bc10245c9bcd4f205b10f461
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1861, y: 3373}
+  - name: Reactor Hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1525
+      y: 2533
+      width: 32
+      height: 38
+    spriteID: fda93c9484bd24333b82bd8176d720b5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -394, y: 1585}
+  - name: Navigation Floor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 2149
+      width: 340
+      height: 354
+    spriteID: 9ac2c35ee24814df492866ad63599d28
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -563, y: 1392}
+  - name: Navigation Hall Wall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1515
+      y: 2596
+      width: 42
+      height: 63
+    spriteID: 91e042b1886fe4766a963131a9a770ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -9, y: 1481}
+  - name: Navigation Window
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1837
+      y: 2751
+      width: 297
+      height: 171
+    spriteID: d4b4ae364586542b4a9865587f0fa170
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 1004}
+  - name: Navigation Seat 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2389
+      width: 57
+      height: 75
+    spriteID: 2f327636c390e4dfd976ab29434111b1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2, y: 1274}
+  - name: Navigation Seat 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2280
+      y: 1275
+      width: 68
+      height: 68
+    spriteID: aefed1878ca554940934db81ada09fd8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 891, y: 160}
+  - name: Navigation Seat 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2281
+      y: 1174
+      width: 69
+      height: 80
+    spriteID: 7af58eb46ddcf4a12a04d570463982e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 965, y: 59}
+  - name: Walls Navigation Panel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 1730
+      width: 341
+      height: 411
+    spriteID: 07c8532b36aaf47f6894dac4c4a92479
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -950, y: 930}
+  - name: O2 Room
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 595
+      y: 3753
+      width: 359
+      height: 314
+    spriteID: 2f8fa6626b0484fdaaea18d1145ec57c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1721, y: 1314}
+  - name: O2 Green Lamps 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 1003
+      width: 37
+      height: 73
+    spriteID: 1fd0d005ce1914a0e94e242510466497
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1728, y: -1593}
+  - name: O2 Green Lamps 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 1084
+      width: 37
+      height: 73
+    spriteID: 22a2a6e6786d14efcbaba0c97398a601
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1728, y: -1438}
+  - name: O2 Plant
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2028
+      y: 2553
+      width: 80
+      height: 114
+    spriteID: b643fe43f97e64ef694e9de5896d8f7f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -696, y: 1}
+  - name: Security Room
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1565
+      y: 2751
+      width: 264
+      height: 468
+    spriteID: a1013a11f20d3471cab6ed3d1231b4fc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -485, y: 468}
+  - name: Security Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2212
+      width: 42
+      height: 52
+    spriteID: e621d6fddab714633911accd8077294c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 108, y: -15}
+  - name: Security Monitors
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1837
+      y: 3130
+      width: 144
+      height: 70
+    spriteID: 81dc13461f59a42b793e5efec6ad6392
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -299, y: 922}
+  - name: Security Electric Panel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 936
+      y: 3470
+      width: 51
+      height: 103
+    spriteID: f20a67d0796eb4fba82e147e2b2c3e8a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1155, y: 1372}
+  - name: Halloween Blue Slime 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1354
+      width: 128
+      height: 69
+    spriteID: 435fd4dc82c034544a3c55fe97268e83
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -719, y: 1059}
+  - name: Halloween Blue Slime 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1649
+      width: 101
+      height: 78
+    spriteID: 8d73913f3053146d3aeb3a8699e24688
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -728, y: 1438}
+  - name: Halloween Green Slime 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1275
+      width: 125
+      height: 71
+    spriteID: 286c92e7cb74d406285abc28f9b277c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -853, y: 981}
+  - name: Halloween Green Slime 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1735
+      width: 101
+      height: 77
+    spriteID: e02654e5f0a2145caad62e363f3a5bf7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -840, y: 1523}
+  - name: Halloween Pumpkin Candle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 936
+      y: 3678
+      width: 50
+      height: 62
+    spriteID: 137c48a69b76047aa8ce1e7313dc4c2a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2161, y: 3454}
+  - name: Halloween Pumpkin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2674
+      width: 42
+      height: 38
+    spriteID: 8454e7526da2941f69a0f84a75be402b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -902, y: 2491}
+  - name: Halloween Bat Big
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 729
+      width: 52
+      height: 21
+    spriteID: 6e3c70b6bba9e4554bb0a4b5fd60e5a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -659, y: 544}
+  - name: Halloween Bat Small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2444
+      y: 729
+      width: 39
+      height: 21
+    spriteID: 085766533434640208016a52c427aaa2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -556, y: 544}
+  - name: Halloween Ghost 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1885
+      width: 52
+      height: 50
+    spriteID: 29b935bf045194074b6a91098d1645cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -790, y: 1727}
+  - name: Halloween Ghost 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 950
+      y: 1473
+      width: 41
+      height: 58
+    spriteID: d2b1b8fb0942245baa727a2dcb0cacde
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1987, y: 1382}
+  - name: Halloween Candies
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 2720
+      width: 42
+      height: 38
+    spriteID: 44a79de4c2c544fd3800ddf33dc5fb2e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -795, y: 2582}
+  - name: Haloween Pumpkin Lying
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2147
+      y: 1943
+      width: 68
+      height: 37
+    spriteID: 52528d1e267df47d99a883ee1da8228f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -842, y: 1845}
+  - name: Halloween Spider Web
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2283
+      y: 1354
+      width: 66
+      height: 53
+    spriteID: e9558f86bc3094dcc92fdf0fecabde0a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -781, y: 1230}
+  - name: Halloween Spider Web Corner
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2223
+      y: 1943
+      width: 36
+      height: 34
+    spriteID: 0197c4a26b48345abb705431ec9c33ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -881, y: 1862}
+  - name: Halloween Pumpkin Purple
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1953
+      y: 4036
+      width: 36
+      height: 49
+    spriteID: feb6a0fdd14ae4c85971b4367eddd6d9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1108, y: 3969}
+  - name: Halloween Pumpkin Back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 3175
+      width: 32
+      height: 38
+    spriteID: c85e2bc949bce4103a7b2a393ed2320e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1370, y: 3100}
+  - name: Halloween Candle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 936
+      y: 3581
+      width: 49
+      height: 89
+    spriteID: 9fb27c8e26fbb4c37969df8d739bb53c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1941, y: 3462}
+  - name: Halloween Hat Candle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2472
+      width: 63
+      height: 53
+    spriteID: eb433564ca2754ebe84ddd08739b8dbb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1628, y: 2467}
+  - name: Halloween Mask Jayson
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2533
+      width: 58
+      height: 55
+    spriteID: 14a4b9d8c062d45a1b2f5842a3093b9b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1568, y: 2525}
+  - name: Halloween Hat Bat
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2256
+      y: 1735
+      width: 91
+      height: 50
+    spriteID: c4bfb4a9e6fd44e4ebe83b9b822adb61
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -677, y: 1719}
+  - name: Halloween Hat Bag
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1459
+      y: 2320
+      width: 72
+      height: 61
+    spriteID: d7d316ada2617438e8f60a778a64ef35
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1399, y: 2310}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 4096
+  importedTextureHeight: 4096
+  documentSize: {x: 3150, y: 3150}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Storage Electrical Hall
+    spriteName: Storage Electrical Hall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cef9e4bcc42234ec1a1a8d473ade5e73
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1003}
+  - name: Reactor and Security Hall
+    spriteName: Reactor and Security Hall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d184706eb5c34bcb825279211e071d6
+    layerID: 10
+    mosaicPosition: {x: 999, y: 1668}
+  - name: Storage Shields Hall
+    spriteName: Storage Shields Hall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f2d21d82105a41b3b3cffcdde04e3b8
+    layerID: 12
+    mosaicPosition: {x: 999, y: 3810}
+  - name: Floor of Shields
+    spriteName: Floor of Shields
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a5baa238c85c94365929b4af8da13484
+    layerID: 13
+    mosaicPosition: {x: 1565, y: 1254}
+  - name: Communication Floor
+    spriteName: Communication Floor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c1b641194f064173aaf5233d05f40be
+    layerID: 14
+    mosaicPosition: {x: 1565, y: 2430}
+  - name: Admin Room
+    spriteName: Admin Room
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23465acbaee594835b230363b49f2dd8
+    layerID: 16
+    mosaicPosition: {x: 4, y: 3753}
+  - name: Bridge of Storage-Cafeteria
+    spriteName: Bridge of Storage-Cafeteria
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f32975a48e8b42058cd34bbbdf59e87
+    layerID: 17
+    mosaicPosition: {x: 743, y: 3342}
+  - name: Hall Shields-Navigation-weapon
+    spriteName: Hall Shields-Navigation-weapon
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 37b4f0117c6164299807b08fe7c7807c
+    layerID: 19
+    mosaicPosition: {x: 4, y: 1730}
+  - name: Storage
+    spriteName: Storage
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c1d51fc2192d410c88ea4e30477de0c
+    layerID: 20
+    mosaicPosition: {x: 4, y: 2525}
+  - name: Hall Cafeteria Engine
+    spriteName: Hall Cafeteria Engine
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7acf34dfc36c64580ab8fdbcc7408bf8
+    layerID: 21
+    mosaicPosition: {x: 4, y: 3342}
+  - name: Shields Top
+    spriteName: Shields Top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa57eb6dd09c44859af556eb17d048d2
+    layerID: 22
+    mosaicPosition: {x: 1565, y: 1662}
+  - name: Boxes
+    spriteName: Boxes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f545a63aa4dc24e738fbc187c01bf2c4
+    layerID: 23
+    mosaicPosition: {x: 1565, y: 3227}
+  - name: Admin Room Panel
+    spriteName: Admin Room Panel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e391127a23ff7413aa136579836340b6
+    layerID: 24
+    mosaicPosition: {x: 1565, y: 3846}
+  - name: Admin Map
+    spriteName: Admin Map
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 32ab647ecf37243dea668356099919f1
+    layerID: 26
+    mosaicPosition: {x: 2147, y: 1055}
+  - name: Communication Radio
+    spriteName: Communication Radio
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c8aad3407dacd492cbb80a31faf17c25
+    layerID: 27
+    mosaicPosition: {x: 581, y: 3228}
+  - name: Communication Table
+    spriteName: Communication Table
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1cef7cd21270d495aa407343fc6d9110
+    layerID: 29
+    mosaicPosition: {x: 2147, y: 937}
+  - name: Electrical Cables
+    spriteName: Electrical Cables
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c1d139af8bd3f407fa7b78c157511939
+    layerID: 32
+    mosaicPosition: {x: 2147, y: 763}
+  - name: Shields Wall
+    spriteName: Shields Wall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 130ecb41f529e49978af1361c4bb016b
+    layerID: 33
+    mosaicPosition: {x: 1837, y: 2930}
+  - name: Shields Camera Forward
+    spriteName: Shields Camera Forward
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1c0dd32ccc1a4d91bc8c1041a034c0d
+    layerID: 34
+    mosaicPosition: {x: 2147, y: 1988}
+  - name: Shields Stand 1
+    spriteName: Shields Stand 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b9054babc00ca4a1eb772e00782573a4
+    layerID: 36
+    mosaicPosition: {x: 828, y: 3228}
+  - name: Shields Stand 2
+    spriteName: Shields Stand 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6216476ebe77c41dfad1145b0af00e71
+    layerID: 42
+    mosaicPosition: {x: 1482, y: 3810}
+  - name: Shields Stand 3
+    spriteName: Shields Stand 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aba173a54b595440fa9fdd0c28c046f6
+    layerID: 66
+    mosaicPosition: {x: 1379, y: 2184}
+  - name: Shield Stand 4
+    spriteName: Shield Stand 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c66507b5c63594cca9e1f327a4bab48e
+    layerID: 119
+    mosaicPosition: {x: 2003, y: 760}
+  - name: Camera Side Right
+    spriteName: Camera Side Right
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5f19f29f22c4a400f901ae89413f0133
+    layerID: 43
+    mosaicPosition: {x: 2116, y: 2553}
+  - name: Camera Side Left Active
+    spriteName: Camera Side Left Active
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 590d98901a47a494bb96b4d2b586a937
+    layerID: 49
+    mosaicPosition: {x: 2199, y: 2923}
+  - name: Camera Side Left Deactive
+    spriteName: Camera Side Left Deactive
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4088e448ce5da4192920ce9f561bdfd4
+    layerID: 59
+    mosaicPosition: {x: 2199, y: 2883}
+  - name: Lamp Light
+    spriteName: Lamp Light
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 41838406d58f94789825d4850a4361be
+    layerID: 37
+    mosaicPosition: {x: 2448, y: 763}
+  - name: Lamp Darken
+    spriteName: Lamp Darken
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2195be60006014406924a0fc8672d6c2
+    layerID: 38
+    mosaicPosition: {x: 950, y: 1365}
+  - name: Green Monitors
+    spriteName: Green Monitors
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b5a29159bd59045f588f771b58667bc2
+    layerID: 39
+    mosaicPosition: {x: 2199, y: 2811}
+  - name: Map Content
+    spriteName: Map Content
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7dda3fd4f9dc34c3aa7c2acf113fea53
+    layerID: 40
+    mosaicPosition: {x: 2147, y: 1820}
+  - name: Hall Lightning Box
+    spriteName: Hall Lightning Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b5883adceb04240ffa54b0135d4b49f7
+    layerID: 41
+    mosaicPosition: {x: 2199, y: 2520}
+  - name: Fuel
+    spriteName: Fuel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 880fe6577cf0149d08cc1b9079acff65
+    layerID: 44
+    mosaicPosition: {x: 2199, y: 2621}
+  - name: Nucleus Sign
+    spriteName: Nucleus Sign
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 94e74659511e94790be94839556302a8
+    layerID: 45
+    mosaicPosition: {x: 2199, y: 2847}
+  - name: Luke Open
+    spriteName: Luke Open
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b79766edf72884d059bf870bbcf7b806
+    layerID: 46
+    mosaicPosition: {x: 2199, y: 2041}
+  - name: Luke Closed
+    spriteName: Luke Closed
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ab3e36b982aa46dfbf4f15cca904051
+    layerID: 47
+    mosaicPosition: {x: 2199, y: 2481}
+  - name: Unknown Shelf
+    spriteName: Unknown Shelf
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 760db6d0e40904f1ca3f5449edd99242
+    layerID: 48
+    mosaicPosition: {x: 1459, y: 2596}
+  - name: Green Box
+    spriteName: Green Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 773896966042842ce97931403b950fb3
+    layerID: 50
+    mosaicPosition: {x: 1482, y: 3994}
+  - name: Computer Side Left
+    spriteName: Computer Side Left
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 08cf99f9aff4c4331ace18cbae206496
+    layerID: 51
+    mosaicPosition: {x: 936, y: 3342}
+  - name: Computer Side Right
+    spriteName: Computer Side Right
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0999d87081db941d79286957cad4d741
+    layerID: 62
+    mosaicPosition: {x: 2052, y: 3227}
+  - name: Computer Monitor Back
+    spriteName: Computer Monitor Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54d44064f16b34ebb9d21aa1395f39a0
+    layerID: 63
+    mosaicPosition: {x: 2052, y: 3360}
+  - name: Electrical Door
+    spriteName: Electrical Door
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 210b018e5232945a18283d3243ed45e4
+    layerID: 52
+    mosaicPosition: {x: 2199, y: 2567}
+  - name: Cassir Canditioner
+    spriteName: Cassir Canditioner
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9ab9864c7f3642d1a0caa47757aeb5d
+    layerID: 53
+    mosaicPosition: {x: 951, y: 1184}
+  - name: Walls Shields
+    spriteName: Walls Shields
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e66cce1368344da88129fda1331ec89
+    layerID: 54
+    mosaicPosition: {x: 999, y: 2320}
+  - name: Side Mat
+    spriteName: Side Mat
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5477d078cb85e46d8a37b453f8cb1345
+    layerID: 55
+    mosaicPosition: {x: 818, y: 1646}
+  - name: WiFi
+    spriteName: WiFi
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d88bcdcf6e4a48ee9613b1fb785dc36
+    layerID: 56
+    mosaicPosition: {x: 2107, y: 824}
+  - name: WiFi Side
+    spriteName: WiFi Side
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2a6fd6b3888df4a8b9d89f28d876c6cd
+    layerID: 65
+    mosaicPosition: {x: 1530, y: 2472}
+  - name: Butterfly Box
+    spriteName: Butterfly Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5b070e7bbc9443388b09cf619d0c89f
+    layerID: 57
+    mosaicPosition: {x: 2199, y: 2958}
+  - name: Walls Admin
+    spriteName: Walls Admin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4cd02d324a6844219bfff0e401382621
+    layerID: 58
+    mosaicPosition: {x: 1565, y: 4}
+  - name: Lines on Wall
+    spriteName: Lines on Wall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1025a38152ba248e488e2ba349430957
+    layerID: 60
+    mosaicPosition: {x: 2291, y: 1431}
+  - name: Star Panel
+    spriteName: Star Panel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c2f77c1e0bf2438baf0d5b1e7ab69cd
+    layerID: 61
+    mosaicPosition: {x: 962, y: 1646}
+  - name: Radio Box
+    spriteName: Radio Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4741ecc1d7d564eef8bdf4299ac360c2
+    layerID: 64
+    mosaicPosition: {x: 2256, y: 1649}
+  - name: Electrical Roof Cables
+    spriteName: Electrical Roof Cables
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23a25ca690d49409e963c9dd02daf826
+    layerID: 67
+    mosaicPosition: {x: 1565, y: 3952}
+  - name: Wall with rope
+    spriteName: Wall with rope
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2454faf2bfc0c49da94430ccc243a3ce
+    layerID: 68
+    mosaicPosition: {x: 2147, y: 1575}
+  - name: Butterfly Side right
+    spriteName: Butterfly Side right
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d5fff136c8a134fa8a84f6e5e978ab6d
+    layerID: 69
+    mosaicPosition: {x: 1524, y: 2389}
+  - name: Chair Side Left
+    spriteName: Chair Side Left
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b5710e5ec5e1d44f4ad6bebe6e025b13
+    layerID: 70
+    mosaicPosition: {x: 1459, y: 2668}
+  - name: Chair Side Back
+    spriteName: Chair Side Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: daf0ef208da114c05bb888f472bf84ed
+    layerID: 71
+    mosaicPosition: {x: 1512, y: 2668}
+  - name: Dont Know
+    spriteName: Dont Know
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59c0e60a38d984e3cbc9258e13a8152d
+    layerID: 72
+    mosaicPosition: {x: 951, y: 1262}
+  - name: Electrical Floor Cables
+    spriteName: Electrical Floor Cables
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b546a9e7a18642589a39d35b155a8ab
+    layerID: 73
+    mosaicPosition: {x: 2147, y: 4}
+  - name: Computer Side Left
+    spriteName: Computer Side Left_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 63224272d092d4a998d62332e0f6ff62
+    layerID: 76
+    mosaicPosition: {x: 2047, y: 3055}
+  - name: Walls Communication
+    spriteName: Walls Communication
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d0cff37c1edc465da08dc5167b26fda
+    layerID: 74
+    mosaicPosition: {x: 1565, y: 2064}
+  - name: Red Button Closed
+    spriteName: Red Button Closed
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d5812b255f5604452b58e7dd3d9a4252
+    layerID: 77
+    mosaicPosition: {x: 2207, y: 1885}
+  - name: Camera with Picture
+    spriteName: Camera with Picture
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9496e2fa4808e42a1a6c217adcfd9334
+    layerID: 78
+    mosaicPosition: {x: 2199, y: 1988}
+  - name: Door Closed 0
+    spriteName: Door Closed 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c369272fd7c8a4c80a8f922887e20e29
+    layerID: 80
+    mosaicPosition: {x: 1997, y: 1915}
+  - name: Door Opening 1
+    spriteName: Door Opening 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 60b1a49f6d3774217a396a8e1ae4fd6e
+    layerID: 81
+    mosaicPosition: {x: 1996, y: 1508}
+  - name: Door Opening 2
+    spriteName: Door Opening 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2831de572b8004e5cba5f9e7e2712c9f
+    layerID: 82
+    mosaicPosition: {x: 2003, y: 659}
+  - name: Door Opening 3
+    spriteName: Door Opening 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c0b115cb1f344fff99b1cc925d7ad7c
+    layerID: 83
+    mosaicPosition: {x: 2364, y: 937}
+  - name: Door Open 4
+    spriteName: Door Open 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c6958b6875834fb1a0a6d1fd334e851
+    layerID: 84
+    mosaicPosition: {x: 2147, y: 1174}
+  - name: Cafeteria
+    spriteName: Cafeteria
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 43868ca3acced4d73ac7257b18432e87
+    layerID: 75
+    mosaicPosition: {x: 4, y: 4}
+  - name: Turbine
+    spriteName: Turbine
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fa3f11c40ce5b437b858d0febc7ef2be
+    layerID: 86
+    mosaicPosition: {x: 2147, y: 311}
+  - name: Engine Stand 1
+    spriteName: Engine Stand 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 074257fadf0f84afe87ccc0d47929950
+    layerID: 87
+    mosaicPosition: {x: 1565, y: 4036}
+  - name: Engine Stand 2
+    spriteName: Engine Stand 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 210a2f67c26f642ac852a18b4f3a7e31
+    layerID: 88
+    mosaicPosition: {x: 2370, y: 763}
+  - name: Code Machine
+    spriteName: Code Machine
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d9e7784d8d2964a858c727aba7aacd6e
+    layerID: 89
+    mosaicPosition: {x: 2199, y: 2378}
+  - name: Smoke 1
+    spriteName: Smoke 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: faae8cdfa255247a28bdefe0e18c6e88
+    layerID: 90
+    mosaicPosition: {x: 2199, y: 2766}
+  - name: Smoke 2
+    spriteName: Smoke 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c99bb68fa37114dce8aa3f4a95ae03f8
+    layerID: 91
+    mosaicPosition: {x: 1520, y: 2742}
+  - name: Smoke 3
+    spriteName: Smoke 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 202f89c66e6fe4b598edd3d13a7052fb
+    layerID: 92
+    mosaicPosition: {x: 2019, y: 2388}
+  - name: Smoke 4
+    spriteName: Smoke 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3a3edb2a36c0d4f32b9bafe08ae53a03
+    layerID: 93
+    mosaicPosition: {x: 2199, y: 2097}
+  - name: Smoke 5
+    spriteName: Smoke 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6d4e8eebe685842649d0fc5c43e7bdd1
+    layerID: 94
+    mosaicPosition: {x: 2091, y: 2388}
+  - name: Upper Engine
+    spriteName: Upper Engine
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e4612b7d111bb4eaab7947733cdb70cc
+    layerID: 95
+    mosaicPosition: {x: 999, y: 3312}
+  - name: Lower Engine
+    spriteName: Lower Engine
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e5876061804a54bbe81b8a3fc4044d08
+    layerID: 96
+    mosaicPosition: {x: 999, y: 2807}
+  - name: Green Light
+    spriteName: Green Light
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ae7fe9f26c6b64789991d46182fc19bc
+    layerID: 98
+    mosaicPosition: {x: 2028, y: 2675}
+  - name: Hologram
+    spriteName: Hologram
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cc74e8981b15245f9ad5e3465848c8e9
+    layerID: 99
+    mosaicPosition: {x: 2448, y: 871}
+  - name: Medbay Portal
+    spriteName: Medbay Portal
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 022cc3f470a08415589807671b5215e5
+    layerID: 100
+    mosaicPosition: {x: 818, y: 1545}
+  - name: MedBay Monitor
+    spriteName: MedBay Monitor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff4e15be7685a49e2907e64ddbf8faba
+    layerID: 101
+    mosaicPosition: {x: 2384, y: 595}
+  - name: MedBay
+    spriteName: MedBay
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 90e6fbd1c6dda4f588789ea0c1e7768d
+    layerID: 97
+    mosaicPosition: {x: 999, y: 504}
+  - name: Weapons Top
+    spriteName: Weapons Top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f1d534f98f6f4782acc93e3a86d56a3
+    layerID: 103
+    mosaicPosition: {x: 1565, y: 824}
+  - name: Weapons Light Lines
+    spriteName: Weapons Light Lines
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c315336d3be4452894b7bcb01d43a32
+    layerID: 104
+    mosaicPosition: {x: 2281, y: 1575}
+  - name: Weapons Darker Lines
+    spriteName: Weapons Darker Lines
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6701c04d6740f43e28f2c003c75793e5
+    layerID: 105
+    mosaicPosition: {x: 2291, y: 1503}
+  - name: Weapons Monitor
+    spriteName: Weapons Monitor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 009b77a4fa5e44fe9a8756d615aa4ece
+    layerID: 106
+    mosaicPosition: {x: 1437, y: 3175}
+  - name: Weapons Red Circle Active
+    spriteName: Weapons Red Circle Active
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5b821603ec8a746d59004640cb1699d0
+    layerID: 107
+    mosaicPosition: {x: 2116, y: 2649}
+  - name: Weapons Red Circle Deactive
+    spriteName: Weapons Red Circle Deactive
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0e81bc13a84c240d7bc4052e48853e4c
+    layerID: 108
+    mosaicPosition: {x: 2245, y: 2923}
+  - name: Weapons Floor
+    spriteName: Weapons Floor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 76bab469e358a4ef4b678fc6b999a3c5
+    layerID: 109
+    mosaicPosition: {x: 1565, y: 407}
+  - name: Weapons Tube 1
+    spriteName: Weapons Tube 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd606709e197f45a3b6c68c2cf053c97
+    layerID: 110
+    mosaicPosition: {x: 2019, y: 2064}
+  - name: Weapons Tube 2
+    spriteName: Weapons Tube 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9f253240019284f7d8033334250a9266
+    layerID: 116
+    mosaicPosition: {x: 1400, y: 1470}
+  - name: Weapons Chair
+    spriteName: Weapons Chair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 65175f6e0f20843f2bb7f874aca3a491
+    layerID: 111
+    mosaicPosition: {x: 2052, y: 3454}
+  - name: Weapons Stand 1
+    spriteName: Weapons Stand 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c00ddbe1d9c345f4a6fef8893ccef14
+    layerID: 112
+    mosaicPosition: {x: 1998, y: 3952}
+  - name: Weapons Stand 2
+    spriteName: Weapons Stand 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a4c46c81d71254482aa0c90c9b440186
+    layerID: 113
+    mosaicPosition: {x: 1792, y: 4036}
+  - name: Weapons Stand 3
+    spriteName: Weapons Stand 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3fcff70b2db5e4548ac69f300679d92c
+    layerID: 117
+    mosaicPosition: {x: 1433, y: 3312}
+  - name: Walls Weapons
+    spriteName: Walls Weapons
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33615bbb1b7c54ca5bcc744012837abc
+    layerID: 114
+    mosaicPosition: {x: 999, y: 4}
+  - name: Weapons Hall
+    spriteName: Weapons Hall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 74a85df0449f048e4b59c0e53c59bb40
+    layerID: 115
+    mosaicPosition: {x: 1964, y: 3563}
+  - name: Weapons Window
+    spriteName: Weapons Window
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d8a790a5dacda47edbe064ff8ae21694
+    layerID: 118
+    mosaicPosition: {x: 1565, y: 3563}
+  - name: Reactor Floor
+    spriteName: Reactor Floor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a3d3160cc348c4cedbdc612397448390
+    layerID: 122
+    mosaicPosition: {x: 999, y: 1032}
+  - name: Reactor Tube 1
+    spriteName: Reactor Tube 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 736c3afad44bf4203afadba5a5eebc16
+    layerID: 123
+    mosaicPosition: {x: 1901, y: 3227}
+  - name: Reactor Tube 2
+    spriteName: Reactor Tube 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 736761f3da93d4a65848697d67f49f6b
+    layerID: 135
+    mosaicPosition: {x: 2147, y: 595}
+  - name: Reactor Tube 3 Deactive
+    spriteName: Reactor Tube 3 Deactive
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dc13d40d8eba94ad7b7597158302f611
+    layerID: 136
+    mosaicPosition: {x: 1400, y: 1032}
+  - name: Reactor Tube 3 Active
+    spriteName: Reactor Tube 3 Active
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 078739baa4bf141b2b978456285ffab3
+    layerID: 175
+    mosaicPosition: {x: 1400, y: 1251}
+  - name: Reactor Lamp Cyan Down 0
+    spriteName: Reactor Lamp Cyan Down 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 660af4e7ec49547bdacfac18be4e11ec
+    layerID: 128
+    mosaicPosition: {x: 1433, y: 3698}
+  - name: Reactor Lamp Cyan Down 1
+    spriteName: Reactor Lamp Cyan Down 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f5283a17129049c1b2b7455331c50d7
+    layerID: 127
+    mosaicPosition: {x: 1437, y: 2807}
+  - name: Reactor Lamp Cyan Down 2
+    spriteName: Reactor Lamp Cyan Down 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a6992a0d98f3540dd835798db618bdf6
+    layerID: 124
+    mosaicPosition: {x: 1437, y: 2899}
+  - name: Reactor Lamp Cyan Down 3
+    spriteName: Reactor Lamp Cyan Down 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea4b546a97d6040208ddf071514704de
+    layerID: 129
+    mosaicPosition: {x: 1437, y: 2991}
+  - name: Reactor Lamp Empty Down
+    spriteName: Reactor Lamp Empty Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 99f317e251d0e4a5aafa599c0a883428
+    layerID: 153
+    mosaicPosition: {x: 1437, y: 3083}
+  - name: Reactor Lamp Cyan Up 1
+    spriteName: Reactor Lamp Cyan Up 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b455b287ac4e6414c9ba1aa25d2e8cd4
+    layerID: 144
+    mosaicPosition: {x: 1964, y: 3770}
+  - name: Reactor Lamp Cyan Up 2
+    spriteName: Reactor Lamp Cyan Up 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 512cdcd38c2814da696320d462046f2f
+    layerID: 145
+    mosaicPosition: {x: 2147, y: 1431}
+  - name: Reactor Lamp Cyan Up 3
+    spriteName: Reactor Lamp Cyan Up 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 77501df05b3804ab4848af70cfe44724
+    layerID: 133
+    mosaicPosition: {x: 2147, y: 1503}
+  - name: Reactor Floor Lamp Red Deactive Down
+    spriteName: Reactor Floor Lamp Red Deactive Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0fecd9e932c45407f818fa7e89a43536
+    layerID: 125
+    mosaicPosition: {x: 1974, y: 824}
+  - name: Reactor Floor Lamp Red Active Down
+    spriteName: Reactor Floor Lamp Red Active Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 304075341ac65435a8e01fa524dc4909
+    layerID: 126
+    mosaicPosition: {x: 1996, y: 1254}
+  - name: Reactor Floor Lamp Red Dective Down
+    spriteName: Reactor Floor Lamp Red Dective Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 42d0896c543ba40548e2801e7dfd52ce
+    layerID: 173
+    mosaicPosition: {x: 818, y: 1365}
+  - name: Reactor Floor Lamp Red Active Down
+    spriteName: Reactor Floor Lamp Red Active Down_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c786a8e6e639545ca9e10e65b9a56f3d
+    layerID: 174
+    mosaicPosition: {x: 1433, y: 3517}
+  - name: Reactor Floor Lamp Blue Deactive Up
+    spriteName: Reactor Floor Lamp Blue Deactive Up
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7126475526bf0492b80992b3ec864013
+    layerID: 131
+    mosaicPosition: {x: 818, y: 1003}
+  - name: Reactor Floor Lamp Blue Active Up
+    spriteName: Reactor Floor Lamp Blue Active Up
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aec105f825ce44be2a2e011896babf97
+    layerID: 132
+    mosaicPosition: {x: 818, y: 1184}
+  - name: Reactor Floor Lamp Blue DeActive Down
+    spriteName: Reactor Floor Lamp Blue DeActive Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7eed64d3a309a4c7fa39a61439a09e7a
+    layerID: 150
+    mosaicPosition: {x: 2003, y: 407}
+  - name: Reactor Floor Lamp Blue Active Down
+    spriteName: Reactor Floor Lamp Blue Active Down
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 61731405d52484c15990f65c904f23f6
+    layerID: 152
+    mosaicPosition: {x: 1997, y: 1662}
+  - name: Reactor Blue Sign
+    spriteName: Reactor Blue Sign
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2e53a9d52b7074c17834f6fd47767c62
+    layerID: 130
+    mosaicPosition: {x: 1524, y: 3221}
+  - name: Reactor Left Panel
+    spriteName: Reactor Left Panel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e90fd1b800e54a0ab14867b1ec1024a
+    layerID: 134
+    mosaicPosition: {x: 1459, y: 2742}
+  - name: Reactor Purple Door
+    spriteName: Reactor Purple Door
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2493fafe05cdd4908b306d20f4feec85
+    layerID: 137
+    mosaicPosition: {x: 1989, y: 3130}
+  - name: Reactor Mini Tube Cyan
+    spriteName: Reactor Mini Tube Cyan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3ff549b11a060428080c0225ba0c6770
+    layerID: 138
+    mosaicPosition: {x: 2199, y: 2272}
+  - name: Reactor Mini Light Cyan
+    spriteName: Reactor Mini Light Cyan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3eb65f24d63a44bb1ae4310df4914eac
+    layerID: 139
+    mosaicPosition: {x: 1524, y: 3262}
+  - name: Reactor Mini Tube Deactive
+    spriteName: Reactor Mini Tube Deactive
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1852273b007a2477da40540c51987a04
+    layerID: 140
+    mosaicPosition: {x: 2199, y: 2430}
+  - name: Reactor Mini Light Deactivate
+    spriteName: Reactor Mini Light Deactivate
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46dbcf37cdea24e43afb73a1efbbc7a3
+    layerID: 141
+    mosaicPosition: {x: 2118, y: 2430}
+  - name: Walls Reactor Room
+    spriteName: Walls Reactor Room
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6c0370b59f20542e8882d772322894b9
+    layerID: 143
+    mosaicPosition: {x: 581, y: 2525}
+  - name: Reactor Unknown Box
+    spriteName: Reactor Unknown Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7e3806b3be83d42fda0f655440316d12
+    layerID: 146
+    mosaicPosition: {x: 2108, y: 3770}
+  - name: Reactor Container Red Charged
+    spriteName: Reactor Container Red Charged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af9f368dae7544d4d835882993153057
+    layerID: 147
+    mosaicPosition: {x: 1379, y: 1668}
+  - name: Reactor Container Red Empty
+    spriteName: Reactor Container Red Empty
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fdd7089bf60c144349c8572543cc11ef
+    layerID: 148
+    mosaicPosition: {x: 1379, y: 2012}
+  - name: Reactor Container White-Cyan
+    spriteName: Reactor Container White-Cyan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 16716130e73a94dc5986fbbed8e56689
+    layerID: 149
+    mosaicPosition: {x: 1379, y: 1840}
+  - name: Reactor Container Cyan Charged
+    spriteName: Reactor Container Cyan Charged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0ba3dcb3aa9db4f0e8935dd18480c44f
+    layerID: 151
+    mosaicPosition: {x: 1974, y: 1076}
+  - name: Reactor Lightning Shield
+    spriteName: Reactor Lightning Shield
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3107b743c5ea43dba199c6056b2d719
+    layerID: 154
+    mosaicPosition: {x: 2199, y: 2144}
+  - name: Reactor Three Tubes Energy Charged
+    spriteName: Reactor Three Tubes Energy Charged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8843f76a63e98409c960da268cf15b62
+    layerID: 155
+    mosaicPosition: {x: 2047, y: 2930}
+  - name: Reactor Three Tubes Energy Cyan
+    spriteName: Reactor Three Tubes Energy Cyan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5019267c50e6e4b609ac3ba43cac37a1
+    layerID: 156
+    mosaicPosition: {x: 2028, y: 2430}
+  - name: Reactor Mini Tube White
+    spriteName: Reactor Mini Tube White
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bd4eb7a40ddf24a1fb03989eaa6cd0c4
+    layerID: 157
+    mosaicPosition: {x: 2199, y: 2326}
+  - name: Reactor Mini Light White
+    spriteName: Reactor Mini Light White
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e6fb22362f65c4bbab30d534be1a8b84
+    layerID: 158
+    mosaicPosition: {x: 2116, y: 2604}
+  - name: Reactor Horizontal Empty
+    spriteName: Reactor Horizontal Empty
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2b86f2302026d440eb3b0c9a0eb5fcc4
+    layerID: 160
+    mosaicPosition: {x: 2652, y: 4}
+  - name: Reactor Horizontal Blue 0
+    spriteName: Reactor Horizontal Blue 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 357da5f17c20f4bea909691635d896ac
+    layerID: 159
+    mosaicPosition: {x: 1989, y: 3205}
+  - name: Reactor Horizontal Blue 1
+    spriteName: Reactor Horizontal Blue 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ec85750f62fa94773ac7297727509cf3
+    layerID: 161
+    mosaicPosition: {x: 1996, y: 1635}
+  - name: Reactor Horizontal Blue 2
+    spriteName: Reactor Horizontal Blue 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7a83efeb3c49f4221873374cfe862b5f
+    layerID: 162
+    mosaicPosition: {x: 2804, y: 4}
+  - name: Reactor Horizontal Blue 3
+    spriteName: Reactor Horizontal Blue 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db836587151694c2cb3d8ffa84b81391
+    layerID: 163
+    mosaicPosition: {x: 1901, y: 3532}
+  - name: Reactor Horizontal Blue 4
+    spriteName: Reactor Horizontal Blue 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b06e75320e3f74615ab40855149b3cb4
+    layerID: 165
+    mosaicPosition: {x: 750, y: 4075}
+  - name: Reactor Horizontal Blue 5
+    spriteName: Reactor Horizontal Blue 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8361828bbfe9b4cff83033e0d19a8f4d
+    layerID: 166
+    mosaicPosition: {x: 2954, y: 4}
+  - name: Reactor Horizontal Blue 6
+    spriteName: Reactor Horizontal Blue 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 05f0d22cc8d704027b15912d5dd7bd12
+    layerID: 167
+    mosaicPosition: {x: 1997, y: 2022}
+  - name: Reactor Horizontal Blue 7
+    spriteName: Reactor Horizontal Blue 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 566e756246d5d4d36bf393284863b900
+    layerID: 168
+    mosaicPosition: {x: 743, y: 3725}
+  - name: Reactor Horizontal Blue 8
+    spriteName: Reactor Horizontal Blue 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6de0e3c2af87342d99e376406143f1d9
+    layerID: 169
+    mosaicPosition: {x: 2502, y: 4}
+  - name: Reactor Horizontal Blue 9
+    spriteName: Reactor Horizontal Blue 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 566d95b6717444d509b25a08ada93e5f
+    layerID: 170
+    mosaicPosition: {x: 1996, y: 1609}
+  - name: Reactor Horizontal Blue 10
+    spriteName: Reactor Horizontal Blue 10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 49559b06bc10245c9bcd4f205b10f461
+    layerID: 172
+    mosaicPosition: {x: 595, y: 4075}
+  - name: Reactor Hand
+    spriteName: Reactor Hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fda93c9484bd24333b82bd8176d720b5
+    layerID: 164
+    mosaicPosition: {x: 1525, y: 2533}
+  - name: Navigation Floor
+    spriteName: Navigation Floor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ac2c35ee24814df492866ad63599d28
+    layerID: 177
+    mosaicPosition: {x: 621, y: 2149}
+  - name: Navigation Hall Wall
+    spriteName: Navigation Hall Wall
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91e042b1886fe4766a963131a9a770ee
+    layerID: 178
+    mosaicPosition: {x: 1515, y: 2596}
+  - name: Navigation Window
+    spriteName: Navigation Window
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d4b4ae364586542b4a9865587f0fa170
+    layerID: 179
+    mosaicPosition: {x: 1837, y: 2751}
+  - name: Navigation Seat 1
+    spriteName: Navigation Seat 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2f327636c390e4dfd976ab29434111b1
+    layerID: 180
+    mosaicPosition: {x: 1459, y: 2389}
+  - name: Navigation Seat 2
+    spriteName: Navigation Seat 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aefed1878ca554940934db81ada09fd8
+    layerID: 181
+    mosaicPosition: {x: 2280, y: 1275}
+  - name: Navigation Seat 3
+    spriteName: Navigation Seat 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7af58eb46ddcf4a12a04d570463982e9
+    layerID: 182
+    mosaicPosition: {x: 2281, y: 1174}
+  - name: Walls Navigation Panel
+    spriteName: Walls Navigation Panel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 07c8532b36aaf47f6894dac4c4a92479
+    layerID: 176
+    mosaicPosition: {x: 621, y: 1730}
+  - name: O2 Room
+    spriteName: O2 Room
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2f8fa6626b0484fdaaea18d1145ec57c
+    layerID: 187
+    mosaicPosition: {x: 595, y: 3753}
+  - name: O2 Green Lamps 1
+    spriteName: O2 Green Lamps 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1fd0d005ce1914a0e94e242510466497
+    layerID: 185
+    mosaicPosition: {x: 953, y: 1003}
+  - name: O2 Green Lamps 2
+    spriteName: O2 Green Lamps 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 22a2a6e6786d14efcbaba0c97398a601
+    layerID: 186
+    mosaicPosition: {x: 953, y: 1084}
+  - name: O2 Plant
+    spriteName: O2 Plant
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b643fe43f97e64ef694e9de5896d8f7f
+    layerID: 188
+    mosaicPosition: {x: 2028, y: 2553}
+  - name: Security Room
+    spriteName: Security Room
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a1013a11f20d3471cab6ed3d1231b4fc
+    layerID: 191
+    mosaicPosition: {x: 1565, y: 2751}
+  - name: Security Chair
+    spriteName: Security Chair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e621d6fddab714633911accd8077294c
+    layerID: 190
+    mosaicPosition: {x: 2199, y: 2212}
+  - name: Security Monitors
+    spriteName: Security Monitors
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 81dc13461f59a42b793e5efec6ad6392
+    layerID: 192
+    mosaicPosition: {x: 1837, y: 3130}
+  - name: Security Electric Panel
+    spriteName: Security Electric Panel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f20a67d0796eb4fba82e147e2b2c3e8a
+    layerID: 193
+    mosaicPosition: {x: 936, y: 3470}
+  - name: Halloween Blue Slime 1
+    spriteName: Halloween Blue Slime 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 435fd4dc82c034544a3c55fe97268e83
+    layerID: 196
+    mosaicPosition: {x: 2147, y: 1354}
+  - name: Halloween Blue Slime 2
+    spriteName: Halloween Blue Slime 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8d73913f3053146d3aeb3a8699e24688
+    layerID: 198
+    mosaicPosition: {x: 2147, y: 1649}
+  - name: Halloween Green Slime 1
+    spriteName: Halloween Green Slime 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 286c92e7cb74d406285abc28f9b277c7
+    layerID: 197
+    mosaicPosition: {x: 2147, y: 1275}
+  - name: Halloween Green Slime 2
+    spriteName: Halloween Green Slime 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e02654e5f0a2145caad62e363f3a5bf7
+    layerID: 199
+    mosaicPosition: {x: 2147, y: 1735}
+  - name: Halloween Pumpkin Candle
+    spriteName: Halloween Pumpkin Candle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 137c48a69b76047aa8ce1e7313dc4c2a
+    layerID: 200
+    mosaicPosition: {x: 936, y: 3678}
+  - name: Halloween Pumpkin
+    spriteName: Halloween Pumpkin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8454e7526da2941f69a0f84a75be402b
+    layerID: 201
+    mosaicPosition: {x: 2199, y: 2674}
+  - name: Halloween Bat Big
+    spriteName: Halloween Bat Big
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e3c70b6bba9e4554bb0a4b5fd60e5a3
+    layerID: 202
+    mosaicPosition: {x: 2384, y: 729}
+  - name: Halloween Bat Small
+    spriteName: Halloween Bat Small
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 085766533434640208016a52c427aaa2
+    layerID: 211
+    mosaicPosition: {x: 2444, y: 729}
+  - name: Halloween Ghost 1
+    spriteName: Halloween Ghost 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 29b935bf045194074b6a91098d1645cc
+    layerID: 203
+    mosaicPosition: {x: 2147, y: 1885}
+  - name: Halloween Ghost 2
+    spriteName: Halloween Ghost 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d2b1b8fb0942245baa727a2dcb0cacde
+    layerID: 204
+    mosaicPosition: {x: 950, y: 1473}
+  - name: Halloween Candies
+    spriteName: Halloween Candies
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44a79de4c2c544fd3800ddf33dc5fb2e
+    layerID: 205
+    mosaicPosition: {x: 2199, y: 2720}
+  - name: Haloween Pumpkin Lying
+    spriteName: Haloween Pumpkin Lying
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52528d1e267df47d99a883ee1da8228f
+    layerID: 206
+    mosaicPosition: {x: 2147, y: 1943}
+  - name: Halloween Spider Web
+    spriteName: Halloween Spider Web
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e9558f86bc3094dcc92fdf0fecabde0a
+    layerID: 207
+    mosaicPosition: {x: 2283, y: 1354}
+  - name: Halloween Spider Web Corner
+    spriteName: Halloween Spider Web Corner
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0197c4a26b48345abb705431ec9c33ef
+    layerID: 210
+    mosaicPosition: {x: 2223, y: 1943}
+  - name: Halloween Pumpkin Purple
+    spriteName: Halloween Pumpkin Purple
+    isGroup: 0
+    parentIndex: -1
+    spriteID: feb6a0fdd14ae4c85971b4367eddd6d9
+    layerID: 208
+    mosaicPosition: {x: 1953, y: 4036}
+  - name: Halloween Pumpkin Back
+    spriteName: Halloween Pumpkin Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c85e2bc949bce4103a7b2a393ed2320e
+    layerID: 209
+    mosaicPosition: {x: 1524, y: 3175}
+  - name: Halloween Candle
+    spriteName: Halloween Candle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9fb27c8e26fbb4c37969df8d739bb53c
+    layerID: 212
+    mosaicPosition: {x: 936, y: 3581}
+  - name: Halloween Hat Candle
+    spriteName: Halloween Hat Candle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb433564ca2754ebe84ddd08739b8dbb
+    layerID: 214
+    mosaicPosition: {x: 1459, y: 2472}
+  - name: Halloween Mask Jayson
+    spriteName: Halloween Mask Jayson
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 14a4b9d8c062d45a1b2f5842a3093b9b
+    layerID: 215
+    mosaicPosition: {x: 1459, y: 2533}
+  - name: Halloween Hat Bat
+    spriteName: Halloween Hat Bat
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c4bfb4a9e6fd44e4ebe83b9b822adb61
+    layerID: 216
+    mosaicPosition: {x: 2256, y: 1735}
+  - name: Halloween Hat Bag
+    spriteName: Halloween Hat Bag
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d7d316ada2617438e8f60a778a64ef35
+    layerID: 217
+    mosaicPosition: {x: 1459, y: 2320}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: UPDATED_AllSprites Texture
+  prefabAssetName: UPDATED_AllSprites Prefab
+  spriteLibAssetName: UPDATED_AllSprites Sprite Lib
+  secondarySpriteTextures: []
