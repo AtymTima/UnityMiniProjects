@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2221346266772072563}
   - component: {fileID: 4512259202945372627}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7059654173307844778}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shields Side Mat
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8162040183833927496}
   - component: {fileID: 3483583684659961474}
   - component: {fileID: 3191632465318206617}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Storage Boxes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8162040185791742670}
   - component: {fileID: 8162040185791742669}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}

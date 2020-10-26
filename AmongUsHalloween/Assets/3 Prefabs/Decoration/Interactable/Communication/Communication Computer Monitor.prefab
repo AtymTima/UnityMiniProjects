@@ -9,7 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8935539064212453479}
-  m_Layer: 0
+  - component: {fileID: 6269645232737724952}
+  m_Layer: 8
   m_Name: Communication Computer Monitor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31,6 +32,37 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &6269645232737724952
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8935539064212453472}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.74230516, y: 1.0787293}
+      - {x: -1.086021, y: 0.23591113}
+      - {x: -1.0995257, y: -0.8090172}
+      - {x: 0.88692105, y: -0.8366227}
+      - {x: 1.1051491, y: -0.09482932}
+      - {x: 0.9285625, y: 0.88824034}
 --- !u!1 &8935539064971027246
 GameObject:
   m_ObjectHideFlags: 0
@@ -41,7 +73,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8935539064971027245}
   - component: {fileID: 8935539064971027244}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}

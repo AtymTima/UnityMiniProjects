@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4706354313317831419}
   - component: {fileID: 4706354313317831418}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4706354314656957248}
-  m_Layer: 0
+  - component: {fileID: 6024741472495963856}
+  m_Layer: 8
   m_Name: Communication Radio Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,3 +114,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &6024741472495963856
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4706354314656957249}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.64927375, y: 0.39449763}
+      - {x: -0.96564686, y: 0.13393188}
+      - {x: 0.63458264, y: 0.13296604}
+      - {x: 0.46272516, y: 0.29985523}
+      - {x: 0.37622446, y: 0.5770731}
+      - {x: 0.15035725, y: 0.61962163}
+      - {x: 0.09071982, y: 0.7346109}
+      - {x: -0.36937654, y: 0.6956637}

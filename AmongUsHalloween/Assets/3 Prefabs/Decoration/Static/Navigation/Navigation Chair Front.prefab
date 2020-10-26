@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7820977647609133496}
   - component: {fileID: 7820977647609133499}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,8 +91,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7820977648049831103}
-  - component: {fileID: 7820977648049831102}
-  m_Layer: 0
+  - component: {fileID: 346761333224766880}
+  m_Layer: 8
   m_Name: Navigation Chair Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114,8 +114,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2.41}
---- !u!61 &7820977648049831102
-BoxCollider2D:
+--- !u!60 &346761333224766880
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -127,7 +127,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.09180081, y: 0.28713787}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -137,6 +137,13 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.1835432, y: 1.2896237}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.19963266, y: 0.9194113}
+      - {x: -0.661297, y: 0.7137262}
+      - {x: -0.6042759, y: -0.41719678}
+      - {x: 0.012705851, y: -0.8784132}
+      - {x: 0.7002907, y: -0.17699958}
+      - {x: 0.4958595, y: -0.036462866}
+      - {x: 0.4993499, y: 0.649037}
+      - {x: 0.32946563, y: 0.92802286}

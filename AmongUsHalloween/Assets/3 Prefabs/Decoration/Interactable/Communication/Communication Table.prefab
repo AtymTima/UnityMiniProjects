@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7826737361249623150}
   - component: {fileID: 7826737361249623151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7826737361421689368}
   - component: {fileID: 7826737361421689369}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Communication Table
   m_TagString: Untagged
   m_Icon: {fileID: 0}

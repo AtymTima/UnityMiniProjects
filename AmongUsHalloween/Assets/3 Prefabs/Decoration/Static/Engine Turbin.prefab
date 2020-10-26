@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4725803396346333794}
   - component: {fileID: 4725803396346333795}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Horizontal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 4725803396693025395}
   - component: {fileID: 4725803396693025397}
   - component: {fileID: 4725803396693025396}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Engine Turbin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4725803396740237271}
   - component: {fileID: 4725803396740237256}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -261,7 +261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4725803396985750339}
   - component: {fileID: 4725803396985750340}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Fence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -345,7 +345,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4725803398038369189}
   - component: {fileID: 4725803398038369190}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Vertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -424,10 +424,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4725803396693025395}
     m_Modifications:
+    - target: {fileID: 2192214802320456806, guid: be542e5ed42134ac7aba14e7dad9aa00,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2192214802336078274, guid: be542e5ed42134ac7aba14e7dad9aa00,
         type: 3}
       propertyPath: m_Name
       value: Engine Coder
+      objectReference: {fileID: 0}
+    - target: {fileID: 2192214802336078274, guid: be542e5ed42134ac7aba14e7dad9aa00,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2192214802336078275, guid: be542e5ed42134ac7aba14e7dad9aa00,
         type: 3}

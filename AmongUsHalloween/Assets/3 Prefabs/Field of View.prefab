@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2504262910190865047}
   - component: {fileID: 2504262910190865040}
   - component: {fileID: 2504262910190865041}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Field of View
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,8 +94,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   meshFilter: {fileID: 2504262910190865047}
   maxFieldOfView: 90
-  maxDistanceFOV: 10
-  numberOfRays: 2
+  maxDistanceFOV: 5
+  minFieldOfView: 30
+  minDistanceFOV: 15
+  numberOfRays: 15
+  colliderLayer:
+    serializedVersion: 2
+    m_Bits: 256
   sortingLayerName: Effects
   orderInLayer: 1
   MyRenderer: {fileID: 2504262910190865040}
