@@ -1,0 +1,2633 @@
+fileFormatVersion: 2
+guid: e45b4e94b5b674f40a4a6fa4265c3a80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5308924265482531470
+    second: hit_blue_0
+  - first:
+      213: -5688753136931261401
+    second: hit_blue_1
+  - first:
+      213: -748107403688581911
+    second: hit_blue_2
+  - first:
+      213: -3572615545203205593
+    second: hit_blue_3
+  - first:
+      213: 7804162088298632741
+    second: hit_blue_4
+  - first:
+      213: -9054072741477601125
+    second: hit_blue_5
+  - first:
+      213: 3688615642434903627
+    second: hit_blue_6
+  - first:
+      213: 6002894318387081128
+    second: hit_blue_7
+  - first:
+      213: -8135519433858560807
+    second: hit_blue_8
+  - first:
+      213: -6803513748366193186
+    second: hit_blue_9
+  - first:
+      213: -106592625770286743
+    second: hit_blue_10
+  - first:
+      213: -6795116035105234723
+    second: hit_blue_11
+  - first:
+      213: 6945490796050586838
+    second: hit_blue_12
+  - first:
+      213: -7117755203088665288
+    second: hit_blue_13
+  - first:
+      213: 3399148368716506434
+    second: hit_blue_14
+  - first:
+      213: -161066825643679033
+    second: hit_blue_15
+  - first:
+      213: -26188204271686130
+    second: hit_blue_16
+  - first:
+      213: 2435159961714310281
+    second: hit_blue_17
+  - first:
+      213: -3809690528136634143
+    second: hit_blue_18
+  - first:
+      213: 4260183208313582978
+    second: hit_blue_19
+  - first:
+      213: 6710902441474238840
+    second: hit_blue_20
+  - first:
+      213: 750558497163041306
+    second: hit_blue_21
+  - first:
+      213: -2608471519798007053
+    second: hit_blue_22
+  - first:
+      213: -6123254066722617293
+    second: hit_blue_23
+  - first:
+      213: 400646010167210398
+    second: hit_blue_24
+  - first:
+      213: -6344943507567011777
+    second: hit_blue_25
+  - first:
+      213: 1910391371578284091
+    second: hit_blue_26
+  - first:
+      213: -9184741926854685449
+    second: hit_blue_27
+  - first:
+      213: -5077517726331645503
+    second: hit_blue_28
+  - first:
+      213: 2299118188450824971
+    second: hit_blue_29
+  - first:
+      213: 5662817674363714203
+    second: hit_blue_30
+  - first:
+      213: -1786181608990296306
+    second: hit_blue_31
+  - first:
+      213: 3731559249677779551
+    second: hit_blue_32
+  - first:
+      213: -8706372797300703872
+    second: hit_blue_33
+  - first:
+      213: 6048335901586077010
+    second: hit_blue_34
+  - first:
+      213: 2451752693591818529
+    second: hit_blue_35
+  - first:
+      213: -269615128156466736
+    second: hit_blue_36
+  - first:
+      213: 3907261443115643175
+    second: hit_blue_37
+  - first:
+      213: -3143606288333073037
+    second: hit_blue_38
+  - first:
+      213: -5155750188101791737
+    second: hit_blue_39
+  - first:
+      213: -283502637498884351
+    second: hit_blue_40
+  - first:
+      213: 6731136698721709967
+    second: hit_blue_41
+  - first:
+      213: 4722486820499070423
+    second: hit_blue_42
+  - first:
+      213: 8849161299715129961
+    second: hit_blue_43
+  - first:
+      213: -4973645926319900513
+    second: hit_blue_44
+  - first:
+      213: -4501270154414350695
+    second: hit_blue_45
+  - first:
+      213: 1973845133063969024
+    second: hit_blue_46
+  - first:
+      213: 1499026881349291268
+    second: hit_blue_47
+  - first:
+      213: -4858102923726434272
+    second: hit_blue_48
+  - first:
+      213: -4667705323470700760
+    second: hit_blue_49
+  - first:
+      213: 367053082754948553
+    second: hit_blue_50
+  - first:
+      213: 365744345742711614
+    second: hit_blue_51
+  - first:
+      213: 1911799955623798442
+    second: hit_blue_52
+  - first:
+      213: -8799783546758509554
+    second: hit_blue_53
+  - first:
+      213: 7025005740530416878
+    second: hit_blue_54
+  - first:
+      213: -8794865767231869054
+    second: hit_blue_55
+  - first:
+      213: 1237057618794652699
+    second: hit_blue_56
+  - first:
+      213: 4357595342842372012
+    second: hit_blue_57
+  - first:
+      213: -2744516566050913483
+    second: hit_blue_58
+  - first:
+      213: 3990297555665491764
+    second: hit_blue_59
+  - first:
+      213: -1175548922981490592
+    second: hit_blue_60
+  - first:
+      213: 2798664059483982613
+    second: hit_blue_61
+  - first:
+      213: -6185175500596190246
+    second: hit_blue_62
+  - first:
+      213: -5489038319573811645
+    second: hit_blue_63
+  - first:
+      213: -4961699867419267159
+    second: hit_blue_64
+  - first:
+      213: 2944157578839589283
+    second: hit_blue_65
+  - first:
+      213: -7860234825176536454
+    second: hit_blue_66
+  - first:
+      213: 6416903468905919008
+    second: hit_blue_67
+  - first:
+      213: -390959414196884358
+    second: hit_blue_68
+  - first:
+      213: -7168100968210959041
+    second: hit_blue_69
+  - first:
+      213: 2716511931217673651
+    second: hit_blue_70
+  - first:
+      213: 4527787729384198891
+    second: hit_blue_71
+  - first:
+      213: -398420371318473652
+    second: hit_blue_72
+  - first:
+      213: -5440604098150294685
+    second: hit_blue_73
+  - first:
+      213: -4445441183388247199
+    second: hit_blue_74
+  - first:
+      213: 4139895445629033156
+    second: hit_blue_75
+  - first:
+      213: 2604330754458901347
+    second: hit_blue_76
+  - first:
+      213: 7578101342611358261
+    second: hit_blue_77
+  - first:
+      213: 6476357954904581439
+    second: hit_blue_78
+  - first:
+      213: -1454351612719065530
+    second: hit_blue_79
+  - first:
+      213: 5667107203324305296
+    second: hit_blue_80
+  - first:
+      213: 3980682847922357089
+    second: hit_blue_81
+  - first:
+      213: -176189625335327237
+    second: hit_blue_82
+  - first:
+      213: 138755712963986177
+    second: hit_blue_83
+  - first:
+      213: 823417727017835456
+    second: hit_blue_84
+  - first:
+      213: -5065586844406070279
+    second: hit_blue_85
+  - first:
+      213: -2026208423000042722
+    second: hit_blue_86
+  - first:
+      213: -1739348107323805202
+    second: hit_blue_87
+  - first:
+      213: 1232712370844188727
+    second: hit_blue_88
+  - first:
+      213: -1327246141073529974
+    second: hit_blue_89
+  - first:
+      213: 1689710796550719584
+    second: hit_blue_90
+  - first:
+      213: -2751970471115385294
+    second: hit_blue_91
+  - first:
+      213: 5876367579561575150
+    second: hit_blue_92
+  - first:
+      213: 4303256197115735620
+    second: hit_blue_93
+  - first:
+      213: 5240295803365044000
+    second: hit_blue_94
+  - first:
+      213: -8419962290601436053
+    second: hit_blue_95
+  - first:
+      213: 7869676104441547224
+    second: hit_blue_96
+  - first:
+      213: 5240032576107092746
+    second: hit_blue_97
+  - first:
+      213: 6883444220900282879
+    second: hit_blue_98
+  - first:
+      213: 7684039232856146006
+    second: hit_blue_99
+  - first:
+      213: -670467060929517384
+    second: hit_blue_100
+  - first:
+      213: 8190149768667070961
+    second: hit_blue_101
+  - first:
+      213: 4602605305753265901
+    second: hit_blue_102
+  - first:
+      213: 3242335333955426483
+    second: hit_blue_103
+  - first:
+      213: 1375018590832786451
+    second: hit_blue_104
+  - first:
+      213: 2362581846358719598
+    second: hit_blue_105
+  - first:
+      213: -8442273564661486711
+    second: hit_blue_106
+  - first:
+      213: -3673459962974483625
+    second: hit_blue_107
+  - first:
+      213: 7188149577636504100
+    second: hit_blue_108
+  - first:
+      213: 1650610192503679507
+    second: hit_blue_109
+  - first:
+      213: -1476355373643611776
+    second: hit_blue_110
+  - first:
+      213: 5340983863205995513
+    second: hit_blue_111
+  - first:
+      213: -8620904357597105602
+    second: hit_blue_112
+  - first:
+      213: -7899524870459917292
+    second: hit_blue_113
+  - first:
+      213: 3362688175061623951
+    second: hit_blue_114
+  - first:
+      213: -6825553662532909321
+    second: hit_blue_115
+  - first:
+      213: 3782793238266008326
+    second: hit_blue_116
+  - first:
+      213: -6979605602156504468
+    second: hit_blue_117
+  - first:
+      213: 6223304408942151598
+    second: hit_blue_118
+  - first:
+      213: -5299530713995985888
+    second: hit_blue_119
+  - first:
+      213: 7351349574628726754
+    second: hit_blue_120
+  - first:
+      213: -8529459881124512972
+    second: hit_blue_121
+  - first:
+      213: 7828077873950476251
+    second: hit_blue_122
+  - first:
+      213: 1857264647676693723
+    second: hit_blue_123
+  - first:
+      213: 8411219844665193069
+    second: hit_blue_124
+  - first:
+      213: 1509954385909801822
+    second: hit_blue_125
+  - first:
+      213: 5111759120146564621
+    second: hit_blue_126
+  - first:
+      213: 7499270180317507364
+    second: hit_blue_127
+  - first:
+      213: -5231660079387695067
+    second: hit_blue_128
+  - first:
+      213: 4248200806188380957
+    second: hit_blue_129
+  - first:
+      213: -5676542694590828041
+    second: hit_blue_130
+  - first:
+      213: 3514617066473419453
+    second: hit_blue_131
+  - first:
+      213: -3841346714749511955
+    second: hit_blue_132
+  - first:
+      213: -4303011828847992313
+    second: hit_blue_133
+  - first:
+      213: 4542210767326578690
+    second: hit_blue_134
+  - first:
+      213: -1848331036199770868
+    second: hit_blue_135
+  - first:
+      213: 4735323315314185589
+    second: hit_blue_136
+  - first:
+      213: -3416623273578223352
+    second: hit_blue_137
+  - first:
+      213: -1966761466798473159
+    second: hit_blue_138
+  - first:
+      213: -9204683356790813014
+    second: hit_blue_139
+  - first:
+      213: 1225315363341217376
+    second: hit_blue_140
+  - first:
+      213: -8644925676642691805
+    second: hit_blue_141
+  - first:
+      213: 1315752770106980566
+    second: hit_blue_142
+  - first:
+      213: 3608244179903895372
+    second: hit_blue_143
+  - first:
+      213: -3795989041913519543
+    second: hit_blue_144
+  - first:
+      213: 2872438893390511259
+    second: hit_blue_145
+  - first:
+      213: 1655218726478087763
+    second: hit_blue_146
+  - first:
+      213: -1112649571887277015
+    second: hit_blue_147
+  - first:
+      213: -5934277745592670210
+    second: hit_blue_148
+  - first:
+      213: 4724174836559689227
+    second: hit_blue_149
+  - first:
+      213: 6895366271840780435
+    second: hit_blue_150
+  - first:
+      213: 6389841051594875611
+    second: hit_blue_151
+  - first:
+      213: 2740733562502469281
+    second: hit_blue_152
+  - first:
+      213: 2275501742413109479
+    second: hit_blue_153
+  - first:
+      213: 733553165611288310
+    second: hit_blue_154
+  - first:
+      213: -9122065060328912093
+    second: hit_blue_155
+  - first:
+      213: 7894696681621034330
+    second: hit_blue_156
+  - first:
+      213: 6524155520397458889
+    second: hit_blue_157
+  - first:
+      213: -1469934395239750198
+    second: hit_blue_158
+  - first:
+      213: -702237031906551167
+    second: hit_blue_159
+  - first:
+      213: 8262451808593798573
+    second: hit_blue_160
+  - first:
+      213: -1746559137877507637
+    second: hit_blue_161
+  - first:
+      213: 3765117111466800931
+    second: hit_blue_162
+  - first:
+      213: 5310732637716385117
+    second: hit_blue_163
+  - first:
+      213: 4330142933944211384
+    second: hit_blue_164
+  - first:
+      213: -5661894054027760679
+    second: hit_blue_165
+  - first:
+      213: 4017268720932552877
+    second: hit_blue_166
+  - first:
+      213: 5771516365831782367
+    second: hit_blue_167
+  - first:
+      213: 5569804194612288020
+    second: hit_blue_168
+  - first:
+      213: 4757546835796979401
+    second: hit_blue_169
+  - first:
+      213: -7581250638844129714
+    second: hit_blue_170
+  - first:
+      213: -7373144629871083338
+    second: hit_blue_171
+  - first:
+      213: -9200253013626704370
+    second: hit_blue_172
+  - first:
+      213: 414965876029036315
+    second: hit_blue_173
+  - first:
+      213: -3365900297106515094
+    second: hit_blue_174
+  - first:
+      213: 6680961468447085087
+    second: hit_blue_175
+  - first:
+      213: 6456462140388472038
+    second: hit_blue_176
+  - first:
+      213: -8217256024159441508
+    second: hit_blue_177
+  - first:
+      213: -5627960602706977875
+    second: hit_blue_178
+  - first:
+      213: -81385754157100359
+    second: hit_blue_179
+  - first:
+      213: 7312858059861623691
+    second: hit_blue_180
+  - first:
+      213: -8630811545423163596
+    second: hit_blue_181
+  - first:
+      213: -6366823757519307817
+    second: hit_blue_182
+  - first:
+      213: 6862248674503289157
+    second: hit_blue_183
+  - first:
+      213: 7973596218943802647
+    second: hit_blue_184
+  - first:
+      213: -2729708196166898905
+    second: hit_blue_185
+  - first:
+      213: -5228957334124606495
+    second: hit_blue_186
+  - first:
+      213: -2536644909229683807
+    second: hit_blue_187
+  - first:
+      213: -4579866106447230835
+    second: hit_blue_188
+  - first:
+      213: 8393707151088105629
+    second: hit_blue_189
+  - first:
+      213: 4864929534055617382
+    second: hit_blue_190
+  - first:
+      213: -2625762727283082348
+    second: hit_blue_191
+  - first:
+      213: -6417380822605073398
+    second: hit_blue_192
+  - first:
+      213: 2376631934745487058
+    second: hit_blue_193
+  - first:
+      213: 4678912866672006242
+    second: hit_blue_194
+  - first:
+      213: -1588665629816840265
+    second: hit_blue_195
+  - first:
+      213: -8364442580079369455
+    second: hit_blue_196
+  - first:
+      213: -7098415281531184901
+    second: hit_blue_197
+  - first:
+      213: 1052845533948766224
+    second: hit_blue_198
+  - first:
+      213: 6432220662745591471
+    second: hit_blue_199
+  - first:
+      213: 6194510261383647504
+    second: hit_blue_200
+  - first:
+      213: -1910329587029760361
+    second: hit_blue_201
+  - first:
+      213: -6513282440711971917
+    second: hit_blue_202
+  - first:
+      213: -4169375652062252075
+    second: hit_blue_203
+  - first:
+      213: 4129553390310584832
+    second: hit_blue_204
+  - first:
+      213: -436089564298242239
+    second: hit_blue_205
+  - first:
+      213: -1940679649889091871
+    second: hit_blue_206
+  - first:
+      213: 7301851816210741727
+    second: hit_blue_207
+  - first:
+      213: -1380177489114340002
+    second: hit_blue_208
+  - first:
+      213: -704687288024491483
+    second: hit_blue_209
+  - first:
+      213: -838566924262154082
+    second: hit_blue_210
+  - first:
+      213: 25370876124823605
+    second: hit_blue_211
+  - first:
+      213: 9161057036337413834
+    second: hit_blue_212
+  - first:
+      213: 1820418930441276282
+    second: hit_blue_213
+  - first:
+      213: 5361823090791555085
+    second: hit_blue_214
+  - first:
+      213: 5666278922679165643
+    second: hit_blue_215
+  - first:
+      213: -5101860605013165987
+    second: hit_blue_216
+  - first:
+      213: -4382499799034083036
+    second: hit_blue_217
+  - first:
+      213: -1110289512218654288
+    second: hit_blue_218
+  - first:
+      213: 234226732436675419
+    second: hit_blue_219
+  - first:
+      213: 1921765986925097972
+    second: hit_blue_220
+  - first:
+      213: -8087242381529252877
+    second: hit_blue_221
+  - first:
+      213: 8575506159570581592
+    second: hit_blue_222
+  - first:
+      213: -2656227727200744397
+    second: hit_blue_223
+  - first:
+      213: 2873353491524221962
+    second: hit_blue_224
+  - first:
+      213: 6599803295335670445
+    second: hit_blue_225
+  - first:
+      213: 8050086197311866972
+    second: hit_blue_226
+  - first:
+      213: 994382912901488417
+    second: hit_blue_227
+  - first:
+      213: 904691529847455791
+    second: hit_blue_228
+  - first:
+      213: -8219667043143949553
+    second: hit_blue_229
+  - first:
+      213: -3806956076732084506
+    second: hit_blue_230
+  - first:
+      213: 128755820294746405
+    second: hit_blue_231
+  - first:
+      213: -1683365572650967143
+    second: hit_blue_232
+  - first:
+      213: 5711187234239377023
+    second: hit_blue_233
+  - first:
+      213: -1871944317255753715
+    second: hit_blue_234
+  - first:
+      213: 7428704400048730030
+    second: hit_blue_235
+  - first:
+      213: -5834106446273230981
+    second: hit_blue_236
+  - first:
+      213: -4180097063765785486
+    second: hit_blue_237
+  - first:
+      213: -3003655423215439711
+    second: hit_blue_238
+  - first:
+      213: 3520448113990508524
+    second: hit_blue_239
+  - first:
+      213: 6538386189517277512
+    second: hit_blue_240
+  - first:
+      213: 6609881746462201854
+    second: hit_blue_241
+  - first:
+      213: -7437597827757949398
+    second: hit_blue_242
+  - first:
+      213: 1327550711683326179
+    second: hit_blue_243
+  - first:
+      213: 1593929790015671
+    second: hit_blue_244
+  - first:
+      213: 1901890445849099182
+    second: hit_blue_245
+  - first:
+      213: 1898068363105139002
+    second: hit_blue_246
+  - first:
+      213: 8199802157877836935
+    second: hit_blue_247
+  - first:
+      213: -2253351916367179033
+    second: hit_blue_248
+  - first:
+      213: -141120572810492372
+    second: hit_blue_249
+  - first:
+      213: -4272063981661599829
+    second: hit_blue_250
+  - first:
+      213: 5467432056337644937
+    second: hit_blue_251
+  - first:
+      213: -2901689103408768083
+    second: hit_blue_252
+  - first:
+      213: -1739989281168826496
+    second: hit_blue_253
+  - first:
+      213: 2120181204277988297
+    second: hit_blue_254
+  - first:
+      213: 3688948621510112937
+    second: hit_blue_255
+  - first:
+      213: 2683140234947104932
+    second: hit_blue_256
+  - first:
+      213: 5226176779523331447
+    second: hit_blue_257
+  - first:
+      213: -3415941902632427766
+    second: hit_blue_258
+  - first:
+      213: 4376564926274082193
+    second: hit_blue_259
+  - first:
+      213: 1075247374269415762
+    second: hit_blue_260
+  - first:
+      213: -6429472367306357790
+    second: hit_blue_261
+  - first:
+      213: -1737506159177964358
+    second: hit_blue_262
+  - first:
+      213: -3011643373346018980
+    second: hit_blue_263
+  - first:
+      213: 1162277487281164643
+    second: hit_blue_264
+  - first:
+      213: 3839695433269696058
+    second: hit_blue_265
+  - first:
+      213: 6238463592397858514
+    second: hit_blue_266
+  - first:
+      213: 1886965395346086590
+    second: hit_blue_267
+  - first:
+      213: 4490750403094385484
+    second: hit_blue_268
+  - first:
+      213: -7099131860288522052
+    second: hit_blue_269
+  - first:
+      213: 2706233268179430945
+    second: hit_blue_270
+  - first:
+      213: 9175137575704186522
+    second: hit_blue_271
+  - first:
+      213: 3770791179373176197
+    second: hit_blue_272
+  - first:
+      213: 4359303685834821263
+    second: hit_blue_273
+  - first:
+      213: -327596020279795567
+    second: hit_blue_274
+  - first:
+      213: 1946540498749334608
+    second: hit_blue_275
+  - first:
+      213: -188172879047612056
+    second: hit_blue_276
+  - first:
+      213: 6294163697683795745
+    second: hit_blue_277
+  - first:
+      213: -8260582750463709945
+    second: hit_blue_278
+  - first:
+      213: 5243711999695540111
+    second: hit_blue_279
+  - first:
+      213: 2990573910777079062
+    second: hit_blue_280
+  - first:
+      213: 1126734425022023328
+    second: hit_blue_281
+  - first:
+      213: -2493274777040502631
+    second: hit_blue_282
+  - first:
+      213: -3855669440145540844
+    second: hit_blue_283
+  - first:
+      213: 3334073516918640288
+    second: hit_blue_284
+  - first:
+      213: -2142772740280125502
+    second: hit_blue_285
+  - first:
+      213: 8545148895429062208
+    second: hit_blue_286
+  - first:
+      213: 8222106718371144705
+    second: hit_blue_287
+  - first:
+      213: -2009758185564396104
+    second: hit_blue_288
+  - first:
+      213: -8398744209831212139
+    second: hit_blue_289
+  - first:
+      213: 4099385855359714155
+    second: hit_blue_290
+  - first:
+      213: 2574734224275798626
+    second: hit_blue_291
+  - first:
+      213: 6695211802850342087
+    second: hit_blue_292
+  - first:
+      213: 8489417492500986178
+    second: hit_blue_293
+  - first:
+      213: 306339864608990769
+    second: hit_blue_294
+  - first:
+      213: -2847340657900113472
+    second: hit_blue_295
+  - first:
+      213: 4933867828547192841
+    second: hit_blue_296
+  - first:
+      213: -4786026373210034648
+    second: hit_blue_297
+  - first:
+      213: -2307177259255450501
+    second: hit_blue_298
+  - first:
+      213: -8530234201906430488
+    second: hit_blue_299
+  - first:
+      213: 2759370458170257627
+    second: hit_blue_300
+  - first:
+      213: -1575922415025979225
+    second: hit_blue_301
+  - first:
+      213: 8378607707525113448
+    second: hit_blue_302
+  - first:
+      213: 4318414367871098781
+    second: hit_blue_303
+  - first:
+      213: 3897713753142703263
+    second: hit_blue_304
+  - first:
+      213: 3933818132397522797
+    second: hit_blue_305
+  - first:
+      213: -7796376796716601218
+    second: hit_blue_306
+  - first:
+      213: 257436228843999448
+    second: hit_blue_307
+  - first:
+      213: -663014446256821511
+    second: hit_blue_308
+  - first:
+      213: 7856868780429171730
+    second: hit_blue_309
+  - first:
+      213: 8661207079802146820
+    second: hit_blue_310
+  - first:
+      213: -7468185880410425245
+    second: hit_blue_311
+  - first:
+      213: -918309328185395279
+    second: hit_blue_312
+  - first:
+      213: -7484039895902466207
+    second: hit_blue_313
+  - first:
+      213: 8113431334447777840
+    second: hit_blue_314
+  - first:
+      213: -8014261261205862575
+    second: hit_blue_315
+  - first:
+      213: -4782756298000452199
+    second: hit_blue_316
+  - first:
+      213: -3991284802139808343
+    second: hit_blue_317
+  - first:
+      213: 6189458943616076456
+    second: hit_blue_318
+  - first:
+      213: 585781107644117026
+    second: hit_blue_319
+  - first:
+      213: 200667897940218775
+    second: hit_blue_320
+  - first:
+      213: 4850397128227593508
+    second: hit_blue_321
+  - first:
+      213: -2360917078724066767
+    second: hit_blue_322
+  - first:
+      213: 6886409481830746215
+    second: hit_blue_323
+  - first:
+      213: 2777754155825737360
+    second: hit_blue_324
+  - first:
+      213: 1531790711769268256
+    second: hit_blue_325
+  - first:
+      213: -8804954417349478758
+    second: hit_blue_326
+  - first:
+      213: -2071196934607294232
+    second: hit_blue_327
+  - first:
+      213: -4202676711649503060
+    second: hit_blue_328
+  - first:
+      213: 874425617770326056
+    second: hit_blue_329
+  - first:
+      213: -5440311725230995189
+    second: hit_blue_330
+  - first:
+      213: 5802861219257443709
+    second: hit_blue_331
+  - first:
+      213: 7613666482201899371
+    second: hit_blue_332
+  - first:
+      213: 5723225330012482268
+    second: hit_blue_333
+  - first:
+      213: 4680525752155369449
+    second: hit_blue_334
+  - first:
+      213: 3057070393097267214
+    second: hit_blue_335
+  - first:
+      213: -2493729900923004239
+    second: hit_blue_336
+  - first:
+      213: 6268888427496032519
+    second: hit_blue_337
+  - first:
+      213: -8328746401078871107
+    second: hit_blue_338
+  - first:
+      213: -2835195362161525262
+    second: hit_blue_339
+  - first:
+      213: -3497304899858577907
+    second: hit_blue_340
+  - first:
+      213: -4693495565802332164
+    second: hit_blue_341
+  - first:
+      213: 28947085810040880
+    second: hit_blue_342
+  - first:
+      213: 3557784291607223632
+    second: hit_blue_343
+  - first:
+      213: 6825737938048116513
+    second: hit_blue_344
+  - first:
+      213: -9186093789717766681
+    second: hit_blue_345
+  - first:
+      213: 9006636454573601392
+    second: hit_blue_346
+  - first:
+      213: -719124445367109165
+    second: hit_blue_347
+  - first:
+      213: -5253073418510644990
+    second: hit_blue_348
+  - first:
+      213: 3074557076965303988
+    second: hit_blue_349
+  - first:
+      213: -29806435874690045
+    second: hit_blue_350
+  - first:
+      213: 8514014264395611032
+    second: hit_blue_351
+  - first:
+      213: -5895213776984097159
+    second: hit_blue_352
+  - first:
+      213: 980750237924762822
+    second: hit_blue_353
+  - first:
+      213: 2715154621636928291
+    second: hit_blue_354
+  - first:
+      213: 199157346505554297
+    second: hit_blue_355
+  - first:
+      213: 5715146646577691085
+    second: hit_blue_356
+  - first:
+      213: -8713788079880560380
+    second: hit_blue_357
+  - first:
+      213: 7856205284705536967
+    second: hit_blue_358
+  - first:
+      213: -7279233412293985056
+    second: hit_blue_359
+  - first:
+      213: -8852899746082720695
+    second: hit_blue_360
+  - first:
+      213: 202783789650039503
+    second: hit_blue_361
+  - first:
+      213: 6453769898515326142
+    second: hit_blue_362
+  - first:
+      213: -948179784756098698
+    second: hit_blue_363
+  - first:
+      213: 4925965436583338988
+    second: hit_blue_364
+  - first:
+      213: -3673158428728980292
+    second: hit_blue_365
+  - first:
+      213: 1599489760217966090
+    second: hit_blue_366
+  - first:
+      213: -3432567322355016247
+    second: hit_blue_367
+  - first:
+      213: 9171574216954899622
+    second: hit_blue_368
+  - first:
+      213: -4936866793848891221
+    second: hit_blue_369
+  - first:
+      213: 541529871011837112
+    second: hit_blue_370
+  - first:
+      213: -2092179897855241907
+    second: hit_blue_371
+  - first:
+      213: 8776841519395508686
+    second: hit_blue_372
+  - first:
+      213: -991559816981717221
+    second: hit_blue_373
+  - first:
+      213: -5113442286805317540
+    second: hit_blue_374
+  - first:
+      213: -6505991867068153160
+    second: hit_blue_375
+  - first:
+      213: 7509844456363145989
+    second: hit_blue_376
+  - first:
+      213: -5640649193618897693
+    second: hit_blue_377
+  - first:
+      213: 7277462498267209570
+    second: hit_blue_378
+  - first:
+      213: -5600262645626041772
+    second: hit_blue_379
+  - first:
+      213: 799701475459871809
+    second: hit_blue_380
+  - first:
+      213: -9160417794670772542
+    second: hit_blue_381
+  - first:
+      213: 9198662374989036556
+    second: hit_blue_382
+  - first:
+      213: 3318399329674394475
+    second: hit_blue_383
+  - first:
+      213: 8100762181461686521
+    second: hit_blue_384
+  - first:
+      213: 297993215302180762
+    second: hit_blue_385
+  - first:
+      213: 5016788698771201535
+    second: hit_blue_386
+  - first:
+      213: 674887276062511796
+    second: hit_blue_387
+  - first:
+      213: 7279340973396741925
+    second: hit_blue_388
+  - first:
+      213: 5550665209634271359
+    second: hit_blue_389
+  - first:
+      213: 3397268674127021427
+    second: hit_blue_390
+  - first:
+      213: -6088801636540773271
+    second: hit_blue_391
+  - first:
+      213: -4865754873401994286
+    second: hit_blue_392
+  - first:
+      213: -4720204548468788066
+    second: hit_blue_393
+  - first:
+      213: 1667727111733445915
+    second: hit_blue_394
+  - first:
+      213: 3459753736129584740
+    second: hit_blue_395
+  - first:
+      213: 5477805513402266386
+    second: hit_blue_396
+  - first:
+      213: -7766657493031794049
+    second: hit_blue_397
+  - first:
+      213: 4293386204210359967
+    second: hit_blue_398
+  - first:
+      213: 3493405881486103018
+    second: hit_blue_399
+  - first:
+      213: 6882968949687057226
+    second: hit_blue_400
+  - first:
+      213: -6896704437056136949
+    second: hit_blue_401
+  - first:
+      213: 2137334705641414766
+    second: hit_blue_402
+  - first:
+      213: -6472451433820555443
+    second: hit_blue_403
+  - first:
+      213: -4848070311868913278
+    second: hit_blue_404
+  - first:
+      213: 6141892328735347406
+    second: hit_blue_405
+  - first:
+      213: 6632257761098834512
+    second: hit_blue_406
+  - first:
+      213: 1414942047079872838
+    second: hit_blue_407
+  - first:
+      213: -6205816757141539567
+    second: hit_blue_408
+  - first:
+      213: 3090281758192037192
+    second: hit_blue_409
+  - first:
+      213: -8674739407816279381
+    second: hit_blue_410
+  - first:
+      213: -3869652157260085805
+    second: hit_blue_411
+  - first:
+      213: -5457726624270497627
+    second: hit_blue_412
+  - first:
+      213: 4469466070822257940
+    second: hit_blue_413
+  - first:
+      213: 2932666604839451844
+    second: hit_blue_414
+  - first:
+      213: -4503227805832935613
+    second: hit_blue_415
+  - first:
+      213: -9059970789018161377
+    second: hit_blue_416
+  - first:
+      213: -4077367670985891466
+    second: hit_blue_417
+  - first:
+      213: 4372306141975769701
+    second: hit_blue_418
+  - first:
+      213: 2923197123325273522
+    second: hit_blue_419
+  - first:
+      213: 2792019170307794423
+    second: hit_blue_420
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hit_blue_0
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d46782289e256b0800000000000000
+      internalID: -5308924265482531470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_1
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b25a892d7d01b0800000000000000
+      internalID: -5688753136931261401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46d4da7403e95f0800000000000000
+      internalID: -748107403688581911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adf1517158b6ec0800000000000000
+      internalID: -3572615545203205593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265c923214fd4c60800000000000000
+      internalID: 7804162088298632741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_5
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903ea9efc8795280800000000000000
+      internalID: -9054072741477601125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e18483268903330800000000000000
+      internalID: 3688615642434903627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_7
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2cafe3909e4350800000000000000
+      internalID: 6002894318387081128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcc291cd24d81f80800000000000000
+      internalID: -8135519433858560807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd852cda401591a0800000000000000
+      internalID: -6803513748366193186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613945529e458ef0800000000000000
+      internalID: -106592625770286743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0edf7d7f5e2b1a0800000000000000
+      internalID: -6795116035105234723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc17598417536060800000000000000
+      internalID: 6945490796050586838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83536b1ba57a83d90800000000000000
+      internalID: -7117755203088665288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24522309e633c2f20800000000000000
+      internalID: 3399148368716506434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a8605396c3cdf0800000000000000
+      internalID: -161066825643679033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_16
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea41b87f5f2aff0800000000000000
+      internalID: -26188204271686130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_17
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3c39451d6bc120800000000000000
+      internalID: 2435159961714310281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ee3636a2412bc0800000000000000
+      internalID: -3809690528136634143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857d997e063f1b30800000000000000
+      internalID: 4260183208313582978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879af52f63ae12d50800000000000000
+      internalID: 6710902441474238840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1add8ef9f48a6a00800000000000000
+      internalID: 750558497163041306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa67b719f8dccbd0800000000000000
+      internalID: -2608471519798007053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33848836ed4d50ba0800000000000000
+      internalID: -6123254066722617293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b1bc6c616f8500800000000000000
+      internalID: 400646010167210398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2040
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381c8f2f7b32f7a0800000000000000
+      internalID: -6344943507567011777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3815eca4d2138a10800000000000000
+      internalID: 1910391371578284091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc803061ed398080800000000000000
+      internalID: -9184741926854685449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d04d97880989b0800000000000000
+      internalID: -5077517726331645503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_29
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034047afcb18ef10800000000000000
+      internalID: 2299118188450824971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_30
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab0440cae569e40800000000000000
+      internalID: 5662817674363714203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073ccb4a453637e0800000000000000
+      internalID: -1786181608990296306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_32
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520e5fed5929c330800000000000000
+      internalID: 3731559249677779551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_33
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d74c6b110cc2780800000000000000
+      internalID: -8706372797300703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255b740057100f350800000000000000
+      internalID: 6048335901586077010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c5aab510660220800000000000000
+      internalID: 2451752693591818529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1992c2872224cf0800000000000000
+      internalID: -269615128156466736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721fc79b491693630800000000000000
+      internalID: 3907261443115643175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375193e7cbaaf54d0800000000000000
+      internalID: -3143606288333073037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001a8f25881378b0800000000000000
+      internalID: -5155750188101791737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f1efe6adbc01cf0800000000000000
+      internalID: -283502637498884351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_41
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f27e51a2dc96d50800000000000000
+      internalID: 6731136698721709967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9f401eb4a98140800000000000000
+      internalID: 4722486820499070423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96287a531598eca70800000000000000
+      internalID: 8849161299715129961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98322ba16f0afab0800000000000000
+      internalID: -4973645926319900513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9010b4a64881c0800000000000000
+      internalID: -4501270154414350695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00959edc0b1846b10800000000000000
+      internalID: 1973845133063969024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0693a10d9dc410800000000000000
+      internalID: 1499026881349291268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020dff4512d849cb0800000000000000
+      internalID: -4858102923726434272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_49
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f34562dbaf83fb0800000000000000
+      internalID: -4667705323470700760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd125385d8081500800000000000000
+      internalID: 367053082754948553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1a9e6b82631500800000000000000
+      internalID: 365744345742711614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa660943ee3188a10800000000000000
+      internalID: 1911799955623798442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc12bcc73e0e580800000000000000
+      internalID: -8799783546758509554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec356d3085dd7160800000000000000
+      internalID: 7025005740530416878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa6e09e2c52f580800000000000000
+      internalID: -8794865767231869054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_56
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1422fe9959ea2110800000000000000
+      internalID: 1237057618794652699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_blue_57
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf140570e9497c30800000000000000
+      internalID: 4357595342842372012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 85730e10627a0464f9492627949cbd40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

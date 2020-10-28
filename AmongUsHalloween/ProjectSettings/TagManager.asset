@@ -17,7 +17,7 @@ TagManager:
   - Mask
   - Hidden
   - Black
-  - 
+  - AlwaysVisible
   - 
   - 
   - 
@@ -49,6 +49,9 @@ TagManager:
     locked: 0
   - name: Impostor
     uniqueID: 3768634377
+    locked: 0
+  - name: Crewmate
+    uniqueID: 3657382391
     locked: 0
   - name: Foreground
     uniqueID: 1059787449

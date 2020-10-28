@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 30b0e0ce22cf647b09c588286817d3be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6157474540509593673
+    second: hit_Yellow_0
+  - first:
+      213: 8151926484653148605
+    second: hit_Yellow_1
+  - first:
+      213: 1013405123749886613
+    second: hit_Yellow_2
+  - first:
+      213: 6789007008771354739
+    second: hit_Yellow_3
+  - first:
+      213: 6902901467588995263
+    second: hit_Yellow_4
+  - first:
+      213: 6096904998253425722
+    second: hit_Yellow_5
+  - first:
+      213: -31764978564441656
+    second: hit_Yellow_6
+  - first:
+      213: -7864739059591229339
+    second: hit_Yellow_7
+  - first:
+      213: -5788543298027966493
+    second: hit_Yellow_8
+  - first:
+      213: 5358996993206592875
+    second: hit_Yellow_9
+  - first:
+      213: -8490425240348115519
+    second: hit_Yellow_10
+  - first:
+      213: -2807114887391873086
+    second: hit_Yellow_11
+  - first:
+      213: 6833683566698928936
+    second: hit_Yellow_12
+  - first:
+      213: 3669670770159067130
+    second: hit_Yellow_13
+  - first:
+      213: 5461036513417733867
+    second: hit_Yellow_14
+  - first:
+      213: 2871700752947465793
+    second: hit_Yellow_15
+  - first:
+      213: 244055982432666990
+    second: hit_Yellow_16
+  - first:
+      213: -4867706242361839958
+    second: hit_Yellow_17
+  - first:
+      213: 2178258697549727862
+    second: hit_Yellow_18
+  - first:
+      213: 7268048123337174787
+    second: hit_Yellow_19
+  - first:
+      213: -9213205201768657401
+    second: hit_Yellow_20
+  - first:
+      213: 7287773942665481600
+    second: hit_Yellow_21
+  - first:
+      213: -751031525574538232
+    second: hit_Yellow_22
+  - first:
+      213: -7752867483082231704
+    second: hit_Yellow_23
+  - first:
+      213: 7880639126953973042
+    second: hit_Yellow_24
+  - first:
+      213: -6000137891423876736
+    second: hit_Yellow_25
+  - first:
+      213: -7667184081460076754
+    second: hit_Yellow_26
+  - first:
+      213: -5154875345632726511
+    second: hit_Yellow_27
+  - first:
+      213: 3850491120599256269
+    second: hit_Yellow_28
+  - first:
+      213: 9091477513116762783
+    second: hit_Yellow_29
+  - first:
+      213: 6090544845891514802
+    second: hit_Yellow_30
+  - first:
+      213: 8091685693613717576
+    second: hit_Yellow_31
+  - first:
+      213: 2871965973324013377
+    second: hit_Yellow_32
+  - first:
+      213: 2316447026068593430
+    second: hit_Yellow_33
+  - first:
+      213: -2620647800910592793
+    second: hit_Yellow_34
+  - first:
+      213: 1130656227528208294
+    second: hit_Yellow_35
+  - first:
+      213: -704664769796980089
+    second: hit_Yellow_36
+  - first:
+      213: 3217471838159086838
+    second: hit_Yellow_37
+  - first:
+      213: -7567215479967631093
+    second: hit_Yellow_38
+  - first:
+      213: -57142536123588702
+    second: hit_Yellow_39
+  - first:
+      213: -1583339148380143139
+    second: hit_Yellow_40
+  - first:
+      213: 318761776556637366
+    second: hit_Yellow_41
+  - first:
+      213: -3454171701852411707
+    second: hit_Yellow_42
+  - first:
+      213: 1225590470869232319
+    second: hit_Yellow_43
+  - first:
+      213: -8802974760245186028
+    second: hit_Yellow_44
+  - first:
+      213: 7026623960236103220
+    second: hit_Yellow_45
+  - first:
+      213: -3327098206886546103
+    second: hit_Yellow_46
+  - first:
+      213: 2661999948241542732
+    second: hit_Yellow_47
+  - first:
+      213: 6239434682402295479
+    second: hit_Yellow_48
+  - first:
+      213: -5535353678631068761
+    second: hit_Yellow_49
+  - first:
+      213: -5956194977943747167
+    second: hit_Yellow_50
+  - first:
+      213: -5479294696637671103
+    second: hit_Yellow_51
+  - first:
+      213: -6373378858393863840
+    second: hit_Yellow_52
+  - first:
+      213: -7327302389564017660
+    second: hit_Yellow_53
+  - first:
+      213: -9157002133748835565
+    second: hit_Yellow_54
+  - first:
+      213: 1966598801564898705
+    second: hit_Yellow_55
+  - first:
+      213: -4126248599254841692
+    second: hit_Yellow_56
+  - first:
+      213: -371758654760432073
+    second: hit_Yellow_57
+  - first:
+      213: -4132134813955465543
+    second: hit_Yellow_58
+  - first:
+      213: -6102097275083720784
+    second: hit_Yellow_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hit_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff96377814c8aa0800000000000000
+      internalID: -6157474540509593673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db989d072f5712170800000000000000
+      internalID: 8151926484653148605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a3cae3796501e00800000000000000
+      internalID: 1013405123749886613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370347f97e5673e50800000000000000
+      internalID: 6789007008771354739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82a27cf480ccf50800000000000000
+      internalID: 6902901467588995263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f23a0bce8c9450800000000000000
+      internalID: 6096904998253425722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95e589be52f8ff0800000000000000
+      internalID: -31764978564441656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560dce59e75dad290800000000000000
+      internalID: -7864739059591229339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef231a1a86faafa0800000000000000
+      internalID: -5788543298027966493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6527744f5bfe5a40800000000000000
+      internalID: 5358996993206592875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3a056a33fb2a80800000000000000
+      internalID: -8490425240348115519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7fb45f1ef1b09d0800000000000000
+      internalID: -2807114887391873086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b938c5ffe16de50800000000000000
+      internalID: 6833683566698928936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff17f96f1a4de230800000000000000
+      internalID: 3669670770159067130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a3bf66cf79cb40800000000000000
+      internalID: 5461036513417733867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d1088ab4aac84cd39e3514a74cb5bd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

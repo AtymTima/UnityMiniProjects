@@ -12,10 +12,10 @@ public class FieldOfView : MonoBehaviour
     [SerializeField] private float minDistanceFOV = 30f;
     [SerializeField] private int numberOfRays = 2;
     [SerializeField] private LayerMask colliderLayer;
-    private float currentFieldOfView;
+    public float CurrentFieldOfView { get; set; }
     private float currentDistanceFOV;
     private float currentAngle;
-    private float startingAngle;
+    public float StartingAngle { get; set; }
     private float angleIncrease;
     private bool isShortRange = true;
     private Vector3 origin = Vector3.zero;
@@ -29,7 +29,7 @@ public class FieldOfView : MonoBehaviour
     private void Start()
     {
         currentDistanceFOV = maxDistanceFOV;
-        currentFieldOfView = maxFieldOfView;
+        CurrentFieldOfView = maxFieldOfView;
         fieldMesh = new Mesh();
         meshFilter.mesh = fieldMesh;
         origin = Vector3.zero;
@@ -39,8 +39,8 @@ public class FieldOfView : MonoBehaviour
 
     private void LateUpdate()
     {
-        angleIncrease = currentFieldOfView / numberOfRays;
-        currentAngle = startingAngle;
+        angleIncrease = CurrentFieldOfView / numberOfRays;
+        currentAngle = StartingAngle;
 
         Vector3[] fieldVertices = new Vector3[numberOfRays + 2];
         Vector2[] fieldUV = new Vector2[fieldVertices.Length];
@@ -103,18 +103,18 @@ public class FieldOfView : MonoBehaviour
         if (isCustom)
         {
             this.currentDistanceFOV = currentDistanceFOV;
-            this.currentFieldOfView = currentFieldOfView;
+            this.CurrentFieldOfView = currentFieldOfView;
             return;
         }
 
         switch (isShortRange)
         {
             case true:
-                this.currentFieldOfView = minFieldOfView;
+                this.CurrentFieldOfView = minFieldOfView;
                 this.currentDistanceFOV = minDistanceFOV;
                 break;
             case false:
-                this.currentFieldOfView = maxFieldOfView;
+                this.CurrentFieldOfView = maxFieldOfView;
                 this.currentDistanceFOV = maxDistanceFOV;
                 break;
         }
@@ -123,7 +123,7 @@ public class FieldOfView : MonoBehaviour
 
     public void SetAimingAngle(Vector3 aimingAngle)
     {
-        startingAngle = GetAngleFloatFromVector(aimingAngle) + currentFieldOfView / 2;
+        StartingAngle = GetAngleFloatFromVector(aimingAngle) + CurrentFieldOfView / 2;
     }
 
     private Vector3 GetAngleFromFloat(float angle)
