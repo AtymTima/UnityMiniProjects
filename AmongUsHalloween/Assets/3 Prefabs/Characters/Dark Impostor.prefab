@@ -708,6 +708,10 @@ GameObject:
   - component: {fileID: 3334156899231001464}
   - component: {fileID: 3334156899231001467}
   - component: {fileID: 3975178292203160460}
+  - component: {fileID: 198000725107308810}
+  - component: {fileID: 5162553077619042810}
+  - component: {fileID: 7914512064129070067}
+  - component: {fileID: 6148428805657957591}
   m_Layer: 10
   m_Name: Dark Impostor
   m_TagString: Player
@@ -780,7 +784,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
+  m_LinearDrag: 1
   m_AngularDrag: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
@@ -892,6 +896,127 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerAnim: {fileID: 3334156899231001469}
   isDead: isDead
+--- !u!114 &198000725107308810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3334156899231001471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 798bd86ffe14e42498264b68167ded95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerDeath: {fileID: 3975178292203160460}
+  playerSounds: {fileID: 6148428805657957591}
+  impostorRB: {fileID: 3334156899231001464}
+  initialHealth: 200
+  forceMultiplier: 8
+--- !u!58 &5162553077619042810
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3334156899231001471}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0051236153, y: -0.03586507}
+  serializedVersion: 2
+  m_Radius: 1.4
+--- !u!114 &7914512064129070067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3334156899231001471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2baf0ffd1a3894408ab185768755ace1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerMovement: {fileID: 3334156899231001467}
+  playerSounds: {fileID: 6148428805657957591}
+  impostorTransform: {fileID: 3334156899231001468}
+  impostorAnim: {fileID: 3334156899231001469}
+  visibleLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  invisibleLayer:
+    serializedVersion: 2
+    m_Bits: 1024
+  bodyChildren:
+  - {fileID: 3334156898774457528}
+  - {fileID: 3334156898513819133}
+  - {fileID: 3334156898557663887}
+  - {fileID: 3334156898954605127}
+  - {fileID: 3334156899322176830}
+  - {fileID: 3334156899065816074}
+  - {fileID: 3334156897757324856}
+  - {fileID: 3334156897964588335}
+  KILL:
+    m_Name: KILL
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 3b63c125-5cf1-496a-beaf-038f1ef5e9f0
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: d510ab0b-426f-4e89-adf7-25ca4311d68c
+      m_Path: <Mouse>/leftButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: KILL
+      m_Flags: 0
+--- !u!114 &6148428805657957591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3334156899231001471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12420798a9a2c4458b0009d8a0126cb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: dbc4e2a370a6642f68b0631d2924a2a8, type: 3}
+    soundVolume: 0.15
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: 42e0b6c1da59f46bda4280bc735c27f7, type: 3}
+    soundVolume: 0.1
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: 3fcec55366cdc4b528df38e9bdccb9d6, type: 3}
+    soundVolume: 0.3
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: 804d3b46feaa4483cadefd6fe71174a6, type: 3}
+    soundVolume: 0.3
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: 3f110ee4f66a242fb8d75489e5bfcf6e, type: 3}
+    soundVolume: 0.3
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: 9ca8eb71e11de4fd1b50ca9910e469ef, type: 3}
+    soundVolume: 0.3
+    isLoop: 0
+  - soundSource: {fileID: 0}
+    soundClip: {fileID: 8300000, guid: edd44a6afa2274f5db4205565817e4c3, type: 3}
+    soundVolume: 0.3
+    isLoop: 0
 --- !u!1 &3334156899322176830
 GameObject:
   m_ObjectHideFlags: 0

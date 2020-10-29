@@ -5,6 +5,7 @@ public class PlayerAiming : MonoBehaviour
 {
     [Header("Cashed References")]
     [SerializeField] private Transform playerTransform;
+    [SerializeField] private PlayerMovement playerMovement;
     [SerializeField] private Transform playerGun;
     [SerializeField] private Camera mainCamera;
     [SerializeField] private FieldOfView fieldOfView;
@@ -16,7 +17,7 @@ public class PlayerAiming : MonoBehaviour
     { 
         get
         {
-            return Quaternion.Euler(0, 0, gunAngleVector.z - fieldOfView.CurrentFieldOfView / 2);
+            return Quaternion.Euler(0, 0, gunAngleVector.z - fieldOfView.CurrentFieldOfView / 2 - 15);
         }
         private set
         {
@@ -29,7 +30,17 @@ public class PlayerAiming : MonoBehaviour
 
     private void Awake()
     {
+        ChangeFieldOfViewAngle();
+    }
+
+    private void Start()
+    {
         mouseClick.performed += context => fieldOfView.SetFieldOfViewParams();
+        if (!playerMovement.GetIfHasControl())
+        {
+            ChangeFieldOfViewAngle();
+            enabled = false;
+        }
     }
 
     private void Update()
@@ -52,5 +63,6 @@ public class PlayerAiming : MonoBehaviour
         float gunAngle = fieldOfView.StartingAngle;
         gunAngleVector.z = gunAngle;
         playerGun.rotation = Quaternion.Euler(0, 0, gunAngleVector.z - fieldOfView.CurrentFieldOfView / 2);
+
     }
 }

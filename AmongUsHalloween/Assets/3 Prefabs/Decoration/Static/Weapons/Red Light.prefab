@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8518636760208908933}
   - component: {fileID: 1688397970730039836}
   - component: {fileID: 8133786551742940501}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Red Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}

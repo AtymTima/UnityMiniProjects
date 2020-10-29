@@ -8,9 +8,14 @@ public class PlayerShoot : MonoBehaviour
     [SerializeField] private Transform shootingPoint;
     [SerializeField] private Transform effectParent;
     [SerializeField] private PlayerAiming playerAiming;
+    [SerializeField] private PlayerMovement playerMovement;
+    [SerializeField] private PlayerSounds playerSounds;
     [Header("Input Actions")]
     [SerializeField] private InputAction DAMAGE;
     [SerializeField] private LayerMask ignoreLayer;
+    [Header("Damage Params")]
+    [SerializeField] private int damagePerShoot = 50;
+    [SerializeField] private int remainingBullets = 4;
 
     private ObjectPool<FireShoot> fireShootPool;
     private FireShoot fireShoot;
@@ -22,6 +27,10 @@ public class PlayerShoot : MonoBehaviour
 
     private void Awake()
     {
+        if (!playerMovement.GetIfHasControl())
+        {
+            enabled = false;
+        }
         DAMAGE.performed += ctx => FireRaycast();
     }
 
@@ -33,6 +42,9 @@ public class PlayerShoot : MonoBehaviour
 
     private void FireRaycast()
     {
+        if (remainingBullets <= 0) { playerSounds.PlayReloadSound(); return; }
+
+        remainingBullets--;
         SpawnHitEffect();
         SpawnFireShoot();
         CheckIfHitTarget();
@@ -56,6 +68,7 @@ public class PlayerShoot : MonoBehaviour
         fireShoot.transform.localRotation = playerAiming.GunAngleVector;
         fireShoot.transform.parent = effectParent;
         fireShoot.gameObject.SetActive(true);
+        playerSounds.PlayHitSound();
     }
 
     private void CheckIfHitTarget()
@@ -69,6 +82,8 @@ public class PlayerShoot : MonoBehaviour
         {
             return;
         }
-        hiddenRay.collider.GetComponent<PlayerDeath>().IsKilled();
+        hiddenRay.collider.GetComponent<ImpostorHealth>().DecreaseHealth(damagePerShoot, 
+        playerAiming.GunAngleVector.eulerAngles.z);
+        playerSounds.PlayImpactSound();
     }
 }

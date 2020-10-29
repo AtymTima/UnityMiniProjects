@@ -10,7 +10,5 @@ public class PlayerDeath : MonoBehaviour
     public void IsKilled()
     {
         playerAnim.SetBool(isDead, true);
-        Debug.Log("isDead");
-
     }
 }

@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float movementSpeed = 5f;
     private Vector2 movementVector;
     private Vector2 zeroVector = new Vector2(0, 0);
-    private Vector2 flipScale = new Vector2(0,1);
+    private Vector2 flipScale = new Vector2(1,1);
 
     private float movementXPos;
     [Header("Role Parameters")]
@@ -35,6 +35,11 @@ public class PlayerMovement : MonoBehaviour
         for (int i = 0; i < spriteRenderersBody.Length; i++)
         {
             spriteRenderersBody[i].color = myColor;
+        }
+        if(playerTransform.localScale.x < 0)
+        {
+            Debug.Log("1");
+            flipScale.x = -1;
         }
     }
 
@@ -85,4 +90,8 @@ public class PlayerMovement : MonoBehaviour
                 break;
         }
     }
+
+    public float GetCurrentFlip() { return flipScale.x; }
+    public bool GetIfHasControl() { return hasControl; }
+    public void SetNoControl() { hasControl = false; }
 }
