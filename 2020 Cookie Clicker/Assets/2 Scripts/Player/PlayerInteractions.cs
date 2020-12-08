@@ -16,7 +16,7 @@ public class PlayerInteractions : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Time.timeScale > 0.1 && Input.GetMouseButtonDown(0))
         {
             Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
             mousePos2D.x = mousePos.x;
@@ -32,9 +32,14 @@ public class PlayerInteractions : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Time.timeScale < 1 && Input.GetKeyDown(KeyCode.Space))
         {
             dialogueManager.EndDialogue();
+        }
+
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            Application.Quit();
         }
     }
 }

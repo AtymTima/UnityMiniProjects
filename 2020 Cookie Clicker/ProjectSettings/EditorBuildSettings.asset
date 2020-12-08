@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1 Scenes/Australia.unity
+    guid: 3afe5991b3395419790f4e29cdc71fec
   m_configObjects: {}

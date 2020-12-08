@@ -3,10 +3,16 @@ using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
+    [Header("Cashed References")]
     [SerializeField] private MenuVaccine[] menuVaccine;
     [SerializeField] private ImmuneManager immune;
+    [SerializeField] private SoundManager soundManager;
+
+    [Header("UI Components")]
     [SerializeField] private TextMeshProUGUI scoreLabel;
     [SerializeField] private CanvasGroup[] canvasGroup;
+    [SerializeField] private GameObject[] shopMenus;
+    [SerializeField] private TextMeshProUGUI congratsText;
     public PlayerScore playerScore;
     public int currentScore = 0;
     private int currentIndex;
@@ -15,6 +21,7 @@ public class ScoreManager : MonoBehaviour
     {
         PlayerInteractions.OnCookieClicked += OnClick;
         Spawner.OnAutoSpawn += ChangeAutoScore;
+        DavidAnim.OnDavidDead += OnEnd;
         scoreLabel.SetText(0.ToString());
         playerScore = new PlayerScore();
         for (int i = currentIndex; i < menuVaccine.Length; i++)
@@ -27,6 +34,7 @@ public class ScoreManager : MonoBehaviour
     {
         PlayerInteractions.OnCookieClicked -= OnClick;
         Spawner.OnAutoSpawn -= ChangeAutoScore;
+        DavidAnim.OnDavidDead -= OnEnd;
     }
 
     private void OnClick()
@@ -37,6 +45,7 @@ public class ScoreManager : MonoBehaviour
 
     public void OnBtnPressed(int i)
     {
+        soundManager.PlayPurchaseSFX();
         playerScore.SetPointsPerClick(menuVaccine[i].perClick);
         currentScore -= menuVaccine[i].cost;
         CheckBtnStates();
@@ -78,5 +87,14 @@ public class ScoreManager : MonoBehaviour
         currentScore += playerScore.PointsPerSecond();
         scoreLabel.SetText(currentScore.ToString());
         CheckBtnStates();
+    }
+
+    private void OnEnd()
+    {
+        for (int i=0; i < shopMenus.Length; i++)
+        {
+            shopMenus[i].SetActive(false);
+        }
+        congratsText.gameObject.SetActive(true);
     }
 }

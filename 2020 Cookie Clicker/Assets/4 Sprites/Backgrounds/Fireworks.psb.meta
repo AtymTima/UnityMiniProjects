@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: 19aae474837104dd089f1af110dd05de
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 26
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: firework-30 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 540
+      height: 290
+    spriteID: 4911192d9e34d4b899929e81973f26b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: firework-29 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 302
+      width: 540
+      height: 290
+    spriteID: 17fb62e75bbf747de9032b14b5fa41b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 302}
+  - name: firework-28 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 600
+      width: 540
+      height: 290
+    spriteID: b34f57755ca1e4d698c2664ec88c22ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 600}
+  - name: firework-27 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 898
+      width: 540
+      height: 290
+    spriteID: d37faa90ed17b46309a878efa0c302c3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 898}
+  - name: firework-26 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1196
+      width: 540
+      height: 290
+    spriteID: 8c3b20e543c3342dc9cf845355d0d349
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1196}
+  - name: firework-25 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1494
+      width: 540
+      height: 290
+    spriteID: 581cf09a4bd6a422d94f78646d64ef5e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1494}
+  - name: firework-24 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1792
+      width: 540
+      height: 290
+    spriteID: a9299c8fc9e714d239287e9adbbd5351
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1792}
+  - name: firework-23 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2090
+      width: 540
+      height: 290
+    spriteID: cedeab770852f4cce8a9ad11b47fef4f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2090}
+  - name: firework-22 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2388
+      width: 540
+      height: 290
+    spriteID: d6144bd9bfe2242cb89e4cb1a023ed24
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2388}
+  - name: firework-21 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2686
+      width: 540
+      height: 290
+    spriteID: 36f850cca391f44d49ec9fb7989e03b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2686}
+  - name: firework-20 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2984
+      width: 540
+      height: 290
+    spriteID: 349113c136384478f96499262accef84
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2984}
+  - name: firework-19 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3282
+      width: 540
+      height: 290
+    spriteID: 820342dfaf6b2473fa51b009fea393c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3282}
+  - name: firework-18 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3580
+      width: 540
+      height: 290
+    spriteID: b32471f4be0ac4e95aecd4da3b51ca5e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3580}
+  - name: firework-17 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 4
+      width: 540
+      height: 290
+    spriteID: 846f91f55206845dba8b82c211091b45
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 4}
+  - name: firework-16 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 302
+      width: 540
+      height: 290
+    spriteID: 2632d04a6219548bd9f6ab122c4bcb89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 302}
+  - name: firework-15 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 600
+      width: 540
+      height: 290
+    spriteID: 902b8cd3184f84ffdacea230bde79fd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 600}
+  - name: firework-14 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 898
+      width: 540
+      height: 290
+    spriteID: b96209ef3ab0742cb81ba257ca992508
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 898}
+  - name: firework-13 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 1196
+      width: 540
+      height: 290
+    spriteID: 4a9723c12c42344b99ff89a170c953ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 1196}
+  - name: firework-12 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 1494
+      width: 540
+      height: 290
+    spriteID: 17ade45c2803d40b59101b1afe3d81d2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 1494}
+  - name: firework-11 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 1792
+      width: 540
+      height: 290
+    spriteID: 29809c06137aa4f7daa2af7f04c861e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 1792}
+  - name: firework-10 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 2090
+      width: 540
+      height: 290
+    spriteID: 9b83c97d66c9c48e384ed0d49c3a2b8a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 2090}
+  - name: firework-9 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 2388
+      width: 540
+      height: 290
+    spriteID: a85e17d0f2aad45b288ec288fe4cc81f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 2388}
+  - name: firework-8 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 2686
+      width: 540
+      height: 290
+    spriteID: 1d4b7d7bb2e6e4d8c81988bac60af5c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 2686}
+  - name: firework-7 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 2984
+      width: 540
+      height: 290
+    spriteID: 639fd2dd72d5c4e0bbf63c0422b676e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 2984}
+  - name: firework-6 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 3282
+      width: 540
+      height: 290
+    spriteID: f12a7b2c396994614bd2fe2edc199067
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 3282}
+  - name: firework-5 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 3580
+      width: 540
+      height: 290
+    spriteID: e13249fff066d4fca922d77e6c3dad02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 3580}
+  - name: firework-4 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1100
+      y: 4
+      width: 540
+      height: 290
+    spriteID: caefe8546f825466bb93f121868d1499
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1100, y: 4}
+  - name: firework-3 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1100
+      y: 302
+      width: 540
+      height: 290
+    spriteID: b24eacb0934eb43ae967ed993a885128
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1100, y: 302}
+  - name: firework-2 (dragged)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1100
+      y: 600
+      width: 540
+      height: 290
+    spriteID: f752a023bac6148d4993009073afb6e4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1100, y: 600}
+  - name: firework
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1100
+      y: 898
+      width: 540
+      height: 290
+    spriteID: ce2f06d6e2b8544c48b3eb89a721dd2f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1100, y: 898}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 540, y: 290}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: firework-30 (dragged)
+    spriteName: firework-30 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4911192d9e34d4b899929e81973f26b9
+    layerID: 33
+    mosaicPosition: {x: 4, y: 4}
+  - name: firework-29 (dragged)
+    spriteName: firework-29 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 17fb62e75bbf747de9032b14b5fa41b7
+    layerID: 32
+    mosaicPosition: {x: 4, y: 302}
+  - name: firework-28 (dragged)
+    spriteName: firework-28 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b34f57755ca1e4d698c2664ec88c22ff
+    layerID: 31
+    mosaicPosition: {x: 4, y: 600}
+  - name: firework-27 (dragged)
+    spriteName: firework-27 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d37faa90ed17b46309a878efa0c302c3
+    layerID: 30
+    mosaicPosition: {x: 4, y: 898}
+  - name: firework-26 (dragged)
+    spriteName: firework-26 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c3b20e543c3342dc9cf845355d0d349
+    layerID: 29
+    mosaicPosition: {x: 4, y: 1196}
+  - name: firework-25 (dragged)
+    spriteName: firework-25 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 581cf09a4bd6a422d94f78646d64ef5e
+    layerID: 28
+    mosaicPosition: {x: 4, y: 1494}
+  - name: firework-24 (dragged)
+    spriteName: firework-24 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9299c8fc9e714d239287e9adbbd5351
+    layerID: 27
+    mosaicPosition: {x: 4, y: 1792}
+  - name: firework-23 (dragged)
+    spriteName: firework-23 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cedeab770852f4cce8a9ad11b47fef4f
+    layerID: 26
+    mosaicPosition: {x: 4, y: 2090}
+  - name: firework-22 (dragged)
+    spriteName: firework-22 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d6144bd9bfe2242cb89e4cb1a023ed24
+    layerID: 25
+    mosaicPosition: {x: 4, y: 2388}
+  - name: firework-21 (dragged)
+    spriteName: firework-21 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 36f850cca391f44d49ec9fb7989e03b9
+    layerID: 24
+    mosaicPosition: {x: 4, y: 2686}
+  - name: firework-20 (dragged)
+    spriteName: firework-20 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 349113c136384478f96499262accef84
+    layerID: 23
+    mosaicPosition: {x: 4, y: 2984}
+  - name: firework-19 (dragged)
+    spriteName: firework-19 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 820342dfaf6b2473fa51b009fea393c9
+    layerID: 22
+    mosaicPosition: {x: 4, y: 3282}
+  - name: firework-18 (dragged)
+    spriteName: firework-18 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b32471f4be0ac4e95aecd4da3b51ca5e
+    layerID: 21
+    mosaicPosition: {x: 4, y: 3580}
+  - name: firework-17 (dragged)
+    spriteName: firework-17 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 846f91f55206845dba8b82c211091b45
+    layerID: 20
+    mosaicPosition: {x: 552, y: 4}
+  - name: firework-16 (dragged)
+    spriteName: firework-16 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2632d04a6219548bd9f6ab122c4bcb89
+    layerID: 19
+    mosaicPosition: {x: 552, y: 302}
+  - name: firework-15 (dragged)
+    spriteName: firework-15 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 902b8cd3184f84ffdacea230bde79fd4
+    layerID: 18
+    mosaicPosition: {x: 552, y: 600}
+  - name: firework-14 (dragged)
+    spriteName: firework-14 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b96209ef3ab0742cb81ba257ca992508
+    layerID: 17
+    mosaicPosition: {x: 552, y: 898}
+  - name: firework-13 (dragged)
+    spriteName: firework-13 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4a9723c12c42344b99ff89a170c953ed
+    layerID: 16
+    mosaicPosition: {x: 552, y: 1196}
+  - name: firework-12 (dragged)
+    spriteName: firework-12 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 17ade45c2803d40b59101b1afe3d81d2
+    layerID: 15
+    mosaicPosition: {x: 552, y: 1494}
+  - name: firework-11 (dragged)
+    spriteName: firework-11 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 29809c06137aa4f7daa2af7f04c861e3
+    layerID: 14
+    mosaicPosition: {x: 552, y: 1792}
+  - name: firework-10 (dragged)
+    spriteName: firework-10 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9b83c97d66c9c48e384ed0d49c3a2b8a
+    layerID: 13
+    mosaicPosition: {x: 552, y: 2090}
+  - name: firework-9 (dragged)
+    spriteName: firework-9 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a85e17d0f2aad45b288ec288fe4cc81f
+    layerID: 12
+    mosaicPosition: {x: 552, y: 2388}
+  - name: firework-8 (dragged)
+    spriteName: firework-8 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d4b7d7bb2e6e4d8c81988bac60af5c7
+    layerID: 11
+    mosaicPosition: {x: 552, y: 2686}
+  - name: firework-7 (dragged)
+    spriteName: firework-7 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 639fd2dd72d5c4e0bbf63c0422b676e9
+    layerID: 10
+    mosaicPosition: {x: 552, y: 2984}
+  - name: firework-6 (dragged)
+    spriteName: firework-6 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f12a7b2c396994614bd2fe2edc199067
+    layerID: 9
+    mosaicPosition: {x: 552, y: 3282}
+  - name: firework-5 (dragged)
+    spriteName: firework-5 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e13249fff066d4fca922d77e6c3dad02
+    layerID: 8
+    mosaicPosition: {x: 552, y: 3580}
+  - name: firework-4 (dragged)
+    spriteName: firework-4 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: caefe8546f825466bb93f121868d1499
+    layerID: 7
+    mosaicPosition: {x: 1100, y: 4}
+  - name: firework-3 (dragged)
+    spriteName: firework-3 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b24eacb0934eb43ae967ed993a885128
+    layerID: 6
+    mosaicPosition: {x: 1100, y: 302}
+  - name: firework-2 (dragged)
+    spriteName: firework-2 (dragged)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f752a023bac6148d4993009073afb6e4
+    layerID: 5
+    mosaicPosition: {x: 1100, y: 600}
+  - name: firework
+    spriteName: firework
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ce2f06d6e2b8544c48b3eb89a721dd2f
+    layerID: 4
+    mosaicPosition: {x: 1100, y: 898}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Fireworks Texture
+  prefabAssetName: Fireworks Prefab
+  spriteLibAssetName: Fireworks Sprite Lib
+  secondarySpriteTextures: []
